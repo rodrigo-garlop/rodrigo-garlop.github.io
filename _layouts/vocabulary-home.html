@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<h2> Vocabulary Lists </h2>
+
+{{ content }}
+
+<h3> Spanish Vocabulary Lists </h3>
+
+<ul>
+    {%- for list in site.vocabulary -%}
+        {%- if list.language == "Spanish" -%}
+        <li>
+            <h3>
+                <a href="{{ list.url | relative_url }}">
+                    {{ list.name | escape }}
+                </a>
+            </h3>
+        </li>
+        {% endif %}
+    {%- endfor -%}
+</ul>
+
+<h3> English Vocabulary Lists </h3>
+
+<ul>
+    {%- for list in site.vocabulary -%}
+    {%- if list.language == "English" -%}
+    <li>
+        <h3>
+            <a href="{{ list.url | relative_url }}">
+                {{ list.name | escape }}
+            </a>
+        </h3>
+    </li>
+    {% endif %}
+    {%- endfor -%}
+</ul>
