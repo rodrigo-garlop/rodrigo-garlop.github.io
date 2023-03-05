@@ -1,4 +1,4 @@
 ---
 layout: home
-list_title: Latest News & Updates
+home_title: Latest News & Updates
 ---

@@ -2,7 +2,7 @@
 layout: vocabulary-list
 language: spanish
 name: List 1
-date: 2023-02-26
+date: 2023-03-04
 ---
 
 #### arcipreste [m.]
@@ -13,17 +13,20 @@ date: 2023-02-26
 
 > el cardenal Mauro Gambetti es el nuevo **arcipreste** de la basílica de San Pedro
 
+
 #### arrabal [m.]
 
 1. barrio fuera del recinto de la población a que pertenece.
 
 > para llegar al **arrabal** de El Jaral recorrí varios kilómetros
 
+
 #### brete [m.]
 
 1. aprieto, situación apurada.
 
 > sus preguntas tan difíciles me pusieron en un **brete**
+
 
 #### ditirambo [m.]
 
@@ -34,6 +37,7 @@ date: 2023-02-26
 
 > como son tan amigos le ha dedicado un **ditirambo**
 
+
 #### emolumento [m.]
 
 1. remuneración adicional que corresponde a un cargo o empleo.
@@ -42,11 +46,13 @@ date: 2023-02-26
 
 > también se encargó, sin recibir **emolumento** alguno, de la organización del archivo municipal barcelonés
 
+
 #### exordio [m.]
 
 1. principio, introducción, preámbulo de una obra literaria, especialmente la primera parte del discurso oratorio, cuyo objetivo es atraer la atención y preparar el ánimo de los oyentes.
 
 > este libro tiene un **exordio** de más de cincuenta páginas
+
 
 #### fanal [m.]
 
@@ -57,11 +63,13 @@ date: 2023-02-26
 
 > guarda sus valiosas figuras de porcelana bajo un **fanal**
 
+
 #### filibustero [m.]
 
 1. pirata que durante el siglo XVII actuaba en el mar de las Antillas y atacaba a los barcos que comerciaban con las colonias españolas de América.
 
 > para el **filibustero**, su triunfo es capturar la nave, apresar o secuestrar a sus tripulantes y hacerse del botín
+
 
 #### gerifalte [m.]
 
@@ -71,6 +79,7 @@ date: 2023-02-26
 
 > el delegado general del festival de Cannes será el hombre que a finales de mayo se conviertirá en el **gerifalte** del mundo del cine
 
+
 #### intersticio [m.]
 
 1. hendidura o espacio, por lo común pequeño, que media entre dos cuerpos o entre dos partes de un mismo cuerpo.
@@ -79,11 +88,13 @@ date: 2023-02-26
 
 > familias que habían aprovechado el corto **intersticio** entre la gran recesión económica y la pandemia del coronavirus para encontrar empleo se hallan otra vez en el filo de la navaja
 
+
 #### jubón [m.]
 
 1. vestidura que cubría desde los hombros hasta la cintura, ceñida y ajustada al cuerpo.
 
 > las hileras de botones de filigrana brillaban en las mangas postizas del **jubón**
+
 
 #### paroxismo [m.]
 
@@ -92,4 +103,5 @@ date: 2023-02-26
 > llegaba al **paroxismo** escuchando la música de su compositor preferido
 
 > esta semana, con la presentación del plan de desescalada, se ha llevado la tensión política hasta el **paroxismo**
+
 
