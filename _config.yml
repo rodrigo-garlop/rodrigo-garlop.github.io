@@ -28,14 +28,14 @@ twitter_username: roogar_97
 
 # Customize navigation links
 # This allows you to set which pages you want to appear in the navigation area and configure order of the links.
-ages:
+header_pages:
   - vocabulary.markdown
   - wip.markdown
 
 collections:
   vocabulary:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:path
 
 # Build settings
 plugins:
