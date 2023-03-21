@@ -2,7 +2,7 @@ title: This is the Quiz Title
 randomized: false
 questions:
   - type: "single-choice"
-    question: "Test question 2"
+    question: "Test question 1"
     items:
       - choice: Incorrect answer
         correct: false
@@ -10,5 +10,12 @@ questions:
         correct: false
       - choice: Correct answer
         correct: true
-    followup: |
-      This is a test
+  - type: "single-choice"
+    question: "Test question 2"
+    items:
+      - choice: Incorrect answer
+        correct: false
+      - choice: Correct answer
+        correct: true
+      - choice: Incorrect answer
+        correct: false

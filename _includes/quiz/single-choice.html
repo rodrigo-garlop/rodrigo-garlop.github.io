@@ -1,38 +1,31 @@
 <div class="question">
   <p class="question-title">
-    {% if include.item.question %}
-      {{ include.item.question }}
+    {{ include.item.question }}
+  </p>
+  {% for choice in include.item.items %}
+    {% if choice.correct == true %}
+      <input type="radio" name="{{ include.item.question | slugify }}" id="radio-correct-{{ include.count }}">
+      <label for="{{ include.item.question | slugify }}" id="correct-{{ include.count }}">
     {% else %}
-      Question {{ include.count }}
+      <input type="radio" name="{{ include.item.question | slugify }}">
+      <label for="{{ include.item.question | slugify }}">
     {% endif %}
-  </p>
-  <p>
-    {% for choice in include.item.items %}
-      {% if choice.correct == true %}
-        <span id="correct-{{ include.count }}">
-      {% endif %}
-      {{ forloop.index }}. {{ choice.choice }}
-      {% if choice.correct == true %}
-        </span>
-      {% endif %}
-      <br>
-    {% endfor %}
-  </p>
+    {{ choice.choice }}
+    </label><br>
+  {% endfor %}
 </div>
 
-<button class="btn btn-success" onclick="showAnswers('correct-{{ include.count }}', 'correct-more-{{ include.count }}')">
+<button class="show-answer-btn" onclick="showAnswers('correct-{{ include.count }}')">
   Show Me
 </button>
 
-{% if include.item.followup %}
-<p class="correct-more" id="correct-more-{{ include.count }}" style="display:none">
-  {{ include.item.followup }}
-</p>
-{% endif %}
-
 <script>
-  function showAnswers(correctAnswerId, explanationId) {
-    document.getElementById(explanationId).style.display = "block";
+  function showAnswers(correctAnswerId) {
     document.getElementById(correctAnswerId).style.fontWeight = 600;
+    if (! document.getElementById('radio-' + correctAnswerId).checked) {
+      document.getElementById(correctAnswerId).style.backgroundColor = "red";
+    } else {
+      document.getElementById(correctAnswerId).style.backgroundColor = "#4CAF50";
+    }
   }
 </script>
