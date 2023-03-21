@@ -36,6 +36,9 @@ collections:
   vocabulary:
     output: true
     permalink: /:collection/:path
+  quiz:
+    output: true
+    permalink: /:collection/:path
 
 # Build settings
 plugins:

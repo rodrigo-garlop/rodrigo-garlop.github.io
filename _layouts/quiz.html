@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+{% if page.category == "vocabulary" %}
+    {% assign quiz = site.data.quizzes[page.category][page.language][page.name] %}
+{% else %}
+    {% assign quiz = site.data.quizzes[page.category][page.name] %}
+{% endif %}
+
+{% if quiz.randomize == true %}
+{% assign questions = quiz.questions | sample %}
+{% else %}
+{% assign questions = quiz.questions %}
+{% endif %}
+
+{% if quiz.title %}
+<h2 class="page-heading" style="text-align: center;">{{ quiz.title }}</h2>
+{% endif %}
+
+{% for item in questions %}
+{% if item.type == "single-choice" %}
+{% include quiz/single-choice.html item=item count=forloop.index %}
+{% endif %}
+<br>
+{% endfor %}

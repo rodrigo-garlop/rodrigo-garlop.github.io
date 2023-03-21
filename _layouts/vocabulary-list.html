@@ -5,3 +5,9 @@ layout: default
 <h2 class="page-heading" style="text-align: center;">{{ page.name | escape }}</h2>
 
 {{ content }}
+
+<div id="quiz-btn-container">
+    <a href="/quiz{{ page.url | relative_url }}" id="quiz-btn">
+        Quiz
+    </a>
+</div>

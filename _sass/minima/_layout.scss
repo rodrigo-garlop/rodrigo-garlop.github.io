@@ -171,8 +171,6 @@
   }
 }
 
-
-
 /**
  * Page content
  */
@@ -203,8 +201,6 @@
   display: block;
   @include relative-font-size(1.5);
 }
-
-
 
 /**
  * Posts
@@ -249,4 +245,24 @@
       @include relative-font-size(1.125);
     }
   }
+}
+
+/*
+ * Quiz content
+ */
+#quiz-btn-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#quiz-btn {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: $base-font-size;
+  cursor: pointer;
 }

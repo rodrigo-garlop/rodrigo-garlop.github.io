@@ -1,0 +1,38 @@
+<div class="question">
+  <p class="question-title">
+    {% if include.item.question %}
+      {{ include.item.question }}
+    {% else %}
+      Question {{ include.count }}
+    {% endif %}
+  </p>
+  <p>
+    {% for choice in include.item.items %}
+      {% if choice.correct == true %}
+        <span id="correct-{{ include.count }}">
+      {% endif %}
+      {{ forloop.index }}. {{ choice.choice }}
+      {% if choice.correct == true %}
+        </span>
+      {% endif %}
+      <br>
+    {% endfor %}
+  </p>
+</div>
+
+<button class="btn btn-success" onclick="showAnswers('correct-{{ include.count }}', 'correct-more-{{ include.count }}')">
+  Show Me
+</button>
+
+{% if include.item.followup %}
+<p class="correct-more" id="correct-more-{{ include.count }}" style="display:none">
+  {{ include.item.followup }}
+</p>
+{% endif %}
+
+<script>
+  function showAnswers(correctAnswerId, explanationId) {
+    document.getElementById(explanationId).style.display = "block";
+    document.getElementById(correctAnswerId).style.fontWeight = 600;
+  }
+</script>
