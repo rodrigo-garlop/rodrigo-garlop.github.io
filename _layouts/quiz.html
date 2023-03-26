@@ -9,14 +9,25 @@ layout: default
 {% endif %}
 
 {% if quiz.randomize == true %}
-{% assign questions = quiz.questions | sample %}
+{% assign questions = quiz.questions | sample: 10 %}
 {% else %}
 {% assign questions = quiz.questions %}
 {% endif %}
 
+<a onclick="window.history.back()" class="back-btn">
+    << back
+</a>
+
 {% if quiz.title %}
 <h2 class="page-heading" style="text-align: center;">{{ quiz.title }}</h2>
 {% endif %}
+
+<p class="page-meta">
+    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+    </time>
+</p>
 
 {% for item in questions %}
 {% if item.type == "single-choice" %}

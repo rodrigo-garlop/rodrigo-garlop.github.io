@@ -4,6 +4,13 @@ layout: default
 
 <h2 class="page-heading" style="text-align: center;">{{ page.name | escape }}</h2>
 
+<p class="page-meta">
+    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+    </time>
+</p>
+
 {{ content }}
 
 <div class="quiz-btn-container">

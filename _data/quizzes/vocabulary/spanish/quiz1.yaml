@@ -1,0 +1,366 @@
+title: Quiz ES-1
+randomize: true
+questions:
+  - type: single-choice
+    question: arcipreste
+    items:
+      - choice: persona que destaca en cualquier actividad, líder
+        correct: false
+      - choice: presbítero que, por nombramiento del obispo, ejerce ciertas atribuciones sobre los curas e iglesias de un territorio determinado
+        correct: true
+      - choice: remuneración adicional que corresponde a un cargo o empleo
+        correct: false
+      - choice: campana de cristal cerrada por arriba, que sirve para resguardar del polvo lo que se cubre con ella
+        correct: false
+  - type: single-choice
+    question: arrabal
+    items:
+      - choice: barrio fuera del recinto de la población a que pertenece
+        correct: true
+      - choice: composición poética laudatoria que expresa un gran entusiasmo por el objeto a que se dedica el elogio, a semejanza del ditirambo griego
+        correct: false
+      - choice: principio, introducción, preámbulo de una obra literaria, especialmente la primera parte del discurso oratorio, cuyo objetivo es atraer la atención y preparar el ánimo de los oyentes
+        correct: false
+      - choice: persona que destaca en cualquier actividad, líder
+        correct: false
+  - type: single-choice
+    question: brete
+    items:
+      - choice: remuneración adicional que corresponde a un cargo o empleo
+        correct: false
+      - choice: principio, introducción, preámbulo de una obra literaria, especialmente la primera parte del discurso oratorio, cuyo objetivo es atraer la atención y preparar el ánimo de los oyentes
+        correct: false
+      - choice: presbítero que, por nombramiento del obispo, ejerce ciertas atribuciones sobre los curas e iglesias de un territorio determinado
+        correct: false
+      - choice: aprieto, situación apurada
+        correct: true
+  - type: single-choice
+    question: ditirambo
+    items:
+      - choice: farol grande que se coloca en las torres de los puertos para que su luz sirva de señal nocturna
+        correct: false
+      - choice: campana de cristal cerrada por arriba, que sirve para resguardar del polvo lo que se cubre con ella
+        correct: false
+      - choice: hendidura o espacio, por lo común pequeño, que media entre dos cuerpos o entre dos partes de un mismo cuerpo
+        correct: false
+      - choice: alabanza exagerada, encomio excesivo
+        correct: true
+  - type: single-choice
+    question: ditirambo
+    items:
+      - choice: composición poética laudatoria que expresa un gran entusiasmo por el objeto a que se dedica el elogio, a semejanza del ditirambo griego
+        correct: true
+      - choice: remuneración adicional que corresponde a un cargo o empleo
+        correct: false
+      - choice: barrio fuera del recinto de la población a que pertenece
+        correct: false
+      - choice: persona que destaca en cualquier actividad, líder
+        correct: false
+  - type: single-choice
+    question: emolumento
+    items:
+      - choice: remuneración adicional que corresponde a un cargo o empleo
+        correct: true
+      - choice: hendidura o espacio, por lo común pequeño, que media entre dos cuerpos o entre dos partes de un mismo cuerpo
+        correct: false
+      - choice: presbítero que, por nombramiento del obispo, ejerce ciertas atribuciones sobre los curas e iglesias de un territorio determinado
+        correct: false
+      - choice: campana de cristal cerrada por arriba, que sirve para resguardar del polvo lo que se cubre con ella
+        correct: false
+  - type: single-choice
+    question: exordio
+    items:
+      - choice: farol grande que se coloca en las torres de los puertos para que su luz sirva de señal nocturna
+        correct: false
+      - choice: pirata que durante el siglo XVII actuaba en el mar de las Antillas y atacaba a los barcos que comerciaban con las colonias españolas de América
+        correct: false
+      - choice: principio, introducción, preámbulo de una obra literaria, especialmente la primera parte del discurso oratorio, cuyo objetivo es atraer la atención y preparar el ánimo de los oyentes
+        correct: true
+      - choice: presbítero que, por nombramiento del obispo, ejerce ciertas atribuciones sobre los curas e iglesias de un territorio determinado
+        correct: false
+  - type: single-choice
+    question: fanal
+    items:
+      - choice: aprieto, situación apurada
+        correct: false
+      - choice: farol grande que se coloca en las torres de los puertos para que su luz sirva de señal nocturna
+        correct: true
+      - choice: hendidura o espacio, por lo común pequeño, que media entre dos cuerpos o entre dos partes de un mismo cuerpo
+        correct: false
+      - choice: barrio fuera del recinto de la población a que pertenece
+        correct: false
+  - type: single-choice
+    question: fanal
+    items:
+      - choice: aprieto, situación apurada
+        correct: false
+      - choice: campana de cristal cerrada por arriba, que sirve para resguardar del polvo lo que se cubre con ella
+        correct: true
+      - choice: composición poética laudatoria que expresa un gran entusiasmo por el objeto a que se dedica el elogio, a semejanza del ditirambo griego
+        correct: false
+      - choice: principio, introducción, preámbulo de una obra literaria, especialmente la primera parte del discurso oratorio, cuyo objetivo es atraer la atención y preparar el ánimo de los oyentes
+        correct: false
+  - type: single-choice
+    question: filibustero
+    items:
+      - choice: alabanza exagerada, encomio excesivo
+        correct: false
+      - choice: composición poética laudatoria que expresa un gran entusiasmo por el objeto a que se dedica el elogio, a semejanza del ditirambo griego
+        correct: false
+      - choice: aprieto, situación apurada
+        correct: false
+      - choice: pirata que durante el siglo XVII actuaba en el mar de las Antillas y atacaba a los barcos que comerciaban con las colonias españolas de América
+        correct: true
+  - type: single-choice
+    question: gerifalte
+    items:
+      - choice: aprieto, situación apurada
+        correct: false
+      - choice: pirata que durante el siglo XVII actuaba en el mar de las Antillas y atacaba a los barcos que comerciaban con las colonias españolas de América
+        correct: false
+      - choice: alabanza exagerada, encomio excesivo
+        correct: false
+      - choice: persona que destaca en cualquier actividad, líder
+        correct: true
+  - type: single-choice
+    question: intersticio
+    items:
+      - choice: hendidura o espacio, por lo común pequeño, que media entre dos cuerpos o entre dos partes de un mismo cuerpo
+        correct: true
+      - choice: barrio fuera del recinto de la población a que pertenece
+        correct: false
+      - choice: aprieto, situación apurada
+        correct: false
+      - choice: principio, introducción, preámbulo de una obra literaria, especialmente la primera parte del discurso oratorio, cuyo objetivo es atraer la atención y preparar el ánimo de los oyentes
+        correct: false
+  - type: single-choice
+    question: jubón
+    items:
+      - choice: hendidura o espacio, por lo común pequeño, que media entre dos cuerpos o entre dos partes de un mismo cuerpo
+        correct: false
+      - choice: campana de cristal cerrada por arriba, que sirve para resguardar del polvo lo que se cubre con ella
+        correct: false
+      - choice: remuneración adicional que corresponde a un cargo o empleo
+        correct: false
+      - choice: vestidura que cubría desde los hombros hasta la cintura, ceñida y ajustada al cuerpo
+        correct: true
+  - type: single-choice
+    question: paroxismo
+    items:
+      - choice: pirata que durante el siglo XVII actuaba en el mar de las Antillas y atacaba a los barcos que comerciaban con las colonias españolas de América
+        correct: false
+      - choice: alabanza exagerada, encomio excesivo
+        correct: false
+      - choice: exaltación extrema de los sentimientos y pasiones
+        correct: true
+      - choice: campana de cristal cerrada por arriba, que sirve para resguardar del polvo lo que se cubre con ella
+        correct: false
+  - type: single-choice
+    question: se ordenó sacerdote y a los diez años fue nombrado _______
+    items:
+      - choice: arcipreste
+        correct: true
+      - choice: fanal
+        correct: false
+      - choice: gerifalte
+        correct: false
+      - choice: filibustero
+        correct: false
+  - type: single-choice
+    question: el cardenal Mauro Gambetti es el nuevo _______ de la basílica de San Pedro
+    items:
+      - choice: fanal
+        correct: false
+      - choice: arcipreste
+        correct: true
+      - choice: paroxismo
+        correct: false
+      - choice: filibustero
+        correct: false
+  - type: single-choice
+    question: para llegar al _______ de El Jaral recorrí varios kilómetros
+    items:
+      - choice: emolumento
+        correct: false
+      - choice: fanal
+        correct: false
+      - choice: arrabal
+        correct: true
+      - choice: gerifalte
+        correct: false
+  - type: single-choice
+    question: sus preguntas tan difíciles me pusieron en un _______
+    items:
+      - choice: paroxismo
+        correct: false
+      - choice: arcipreste
+        correct: false
+      - choice: arrabal
+        correct: false
+      - choice: brete
+        correct: true
+  - type: single-choice
+    question: el elogio puede ir desde la lisonja y la adulación hasta el _______
+    items:
+      - choice: emolumento
+        correct: false
+      - choice: brete
+        correct: false
+      - choice: ditirambo
+        correct: true
+      - choice: gerifalte
+        correct: false
+  - type: single-choice
+    question: como son tan amigos le ha dedicado un _______
+    items:
+      - choice: arrabal
+        correct: false
+      - choice: intersticio
+        correct: false
+      - choice: ditirambo
+        correct: true
+      - choice: paroxismo
+        correct: false
+  - type: single-choice
+    question: este _______ se reparte en catorce pagas
+    items:
+      - choice: fanal
+        correct: false
+      - choice: emolumento
+        correct: true
+      - choice: arrabal
+        correct: false
+      - choice: paroxismo
+        correct: false
+  - type: single-choice
+    question: también se encargó, sin recibir _______ alguno, de la organización del archivo municipal barcelonés
+    items:
+      - choice: emolumento
+        correct: true
+      - choice: fanal
+        correct: false
+      - choice: arcipreste
+        correct: false
+      - choice: arrabal
+        correct: false
+  - type: single-choice
+    question: este libro tiene un _______ de más de cincuenta páginas
+    items:
+      - choice: exordio
+        correct: true
+      - choice: intersticio
+        correct: false
+      - choice: arrabal
+        correct: false
+      - choice: ditirambo
+        correct: false
+  - type: single-choice
+    question: pudieron arribar sin contratiempos en mitad de la tormenta gracias al _______
+    items:
+      - choice: intersticio
+        correct: false
+      - choice: arrabal
+        correct: false
+      - choice: fanal
+        correct: true
+      - choice: exordio
+        correct: false
+  - type: single-choice
+    question: guarda sus valiosas figuras de porcelana bajo un _______
+    items:
+      - choice: brete
+        correct: false
+      - choice: exordio
+        correct: false
+      - choice: gerifalte
+        correct: false
+      - choice: fanal
+        correct: true
+  - type: single-choice
+    question: para el _______, su triunfo es capturar la nave, apresar o secuestrar a sus tripulantes y hacerse del botín
+    items:
+      - choice: brete
+        correct: false
+      - choice: filibustero
+        correct: true
+      - choice: emolumento
+        correct: false
+      - choice: jubón
+        correct: false
+  - type: single-choice
+    question: en cuanto vieron que el asalto era repelido y se toparon con policías que le mataron a su _______, simplemente emprendieron la huida
+    items:
+      - choice: exordio
+        correct: false
+      - choice: ditirambo
+        correct: false
+      - choice: arcipreste
+        correct: false
+      - choice: gerifalte
+        correct: true
+  - type: single-choice
+    question: el delegado general del festival de Cannes será el hombre que a finales de mayo se conviertirá en el _______ del mundo del cine
+    items:
+      - choice: gerifalte
+        correct: true
+      - choice: intersticio
+        correct: false
+      - choice: arrabal
+        correct: false
+      - choice: emolumento
+        correct: false
+  - type: single-choice
+    question: por el _______ que se formaba entre las rocas, se formaba un pequeño arroyo
+    items:
+      - choice: gerifalte
+        correct: false
+      - choice: fanal
+        correct: false
+      - choice: intersticio
+        correct: true
+      - choice: brete
+        correct: false
+  - type: single-choice
+    question: familias que habían aprovechado el corto _______ entre la gran recesión económica y la pandemia del coronavirus para encontrar empleo se hallan otra vez en el filo de la navaja
+    items:
+      - choice: intersticio
+        correct: true
+      - choice: paroxismo
+        correct: false
+      - choice: jubón
+        correct: false
+      - choice: arcipreste
+        correct: false
+  - type: single-choice
+    question: las hileras de botones de filigrana brillaban en las mangas postizas del _______
+    items:
+      - choice: brete
+        correct: false
+      - choice: ditirambo
+        correct: false
+      - choice: filibustero
+        correct: false
+      - choice: jubón
+        correct: true
+  - type: single-choice
+    question: llegaba al _______ escuchando la música de su compositor preferido
+    items:
+      - choice: intersticio
+        correct: false
+      - choice: exordio
+        correct: false
+      - choice: paroxismo
+        correct: true
+      - choice: ditirambo
+        correct: false
+  - type: single-choice
+    question: esta semana, con la presentación del plan de desescalada, se ha llevado la tensión política hasta el _______
+    items:
+      - choice: gerifalte
+        correct: false
+      - choice: ditirambo
+        correct: false
+      - choice: fanal
+        correct: false
+      - choice: paroxismo
+        correct: true

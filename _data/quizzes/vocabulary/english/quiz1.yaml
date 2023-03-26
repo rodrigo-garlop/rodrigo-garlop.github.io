@@ -1,0 +1,454 @@
+title: Quiz EN-1
+randomize: true
+questions:
+  - type: single-choice
+    question: billow
+    items:
+      - choice: someone who is just an ordinary person
+        correct: false
+      - choice: a long pole or spar rising from the keel or deck of a ship and supporting the yards, booms, and rigging
+        correct: false
+      - choice: a trick that deludes
+        correct: false
+      - choice: a large undulating mass of something, typically cloud, smoke, or steam
+        correct: true
+  - type: single-choice
+    question: billow
+    items:
+      - choice: a large sea wave
+        correct: true
+      - choice: a very strong wind (about 51 to 102 kilometers per hour)
+        correct: false
+      - choice: nuts (such as acorns) accumulated on the forest floor and often serving as food for animals
+        correct: false
+      - choice: a person who is lazy and has low standards of cleanliness
+        correct: false
+  - type: single-choice
+    question: carrion
+    items:
+      - choice: a period of reflection or thought
+        correct: false
+      - choice: a compact mass of a substance, especially one without a definite or regular shape
+        correct: false
+      - choice: a very strong wind (about 51 to 102 kilometers per hour)
+        correct: false
+      - choice: the flesh of dead animals
+        correct: true
+  - type: single-choice
+    question: comber
+    items:
+      - choice: a long pole or spar rising from the keel or deck of a ship and supporting the yards, booms, and rigging
+        correct: false
+      - choice: a long curling wave of the sea
+        correct: true
+      - choice: a person who is lazy and has low standards of cleanliness
+        correct: false
+      - choice: a large sea wave
+        correct: false
+  - type: single-choice
+    question: embroidery
+    items:
+      - choice: the art or process of forming decorative designs with hand or machine needlework
+        correct: true
+      - choice: a person who is lazy and has low standards of cleanliness
+        correct: false
+      - choice: a large sea wave
+        correct: false
+      - choice: a trick that deludes
+        correct: false
+  - type: single-choice
+    question: gale
+    items:
+      - choice: the flesh of dead animals
+        correct: false
+      - choice: a layer of something unpleasant or unwanted that forms on top of a liquid
+        correct: false
+      - choice: a compact mass of a substance, especially one without a definite or regular shape
+        correct: false
+      - choice: a very strong wind (about 51 to 102 kilometers per hour)
+        correct: true
+  - type: single-choice
+    question: gurney
+    items:
+      - choice: a bed on a frame with wheels that is used for moving people who are sick or injured
+        correct: true
+      - choice: a layer of something unpleasant or unwanted that forms on top of a liquid
+        correct: false
+      - choice: nuts (such as acorns) accumulated on the forest floor and often serving as food for animals
+        correct: false
+      - choice: a person who is lazy and has low standards of cleanliness
+        correct: false
+  - type: single-choice
+    question: lump
+    items:
+      - choice: a compact mass of a substance, especially one without a definite or regular shape
+        correct: true
+      - choice: a bed on a frame with wheels that is used for moving people who are sick or injured
+        correct: false
+      - choice: a long pole or spar rising from the keel or deck of a ship and supporting the yards, booms, and rigging
+        correct: false
+      - choice: a long curling wave of the sea
+        correct: false
+  - type: single-choice
+    question: mast
+    items:
+      - choice: nuts (such as acorns) accumulated on the forest floor and often serving as food for animals
+        correct: true
+      - choice: a compact mass of a substance, especially one without a definite or regular shape
+        correct: false
+      - choice: a large sea wave
+        correct: false
+      - choice: a very strong wind (about 51 to 102 kilometers per hour)
+        correct: false
+  - type: single-choice
+    question: mast
+    items:
+      - choice: someone who is just an ordinary person
+        correct: false
+      - choice: a large undulating mass of something, typically cloud, smoke, or steam
+        correct: false
+      - choice: a large sea wave
+        correct: false
+      - choice: a long pole or spar rising from the keel or deck of a ship and supporting the yards, booms, and rigging
+        correct: true
+  - type: single-choice
+    question: musing
+    items:
+      - choice: a very strong wind (about 51 to 102 kilometers per hour)
+        correct: false
+      - choice: a large sea wave
+        correct: false
+      - choice: a period of reflection or thought
+        correct: true
+      - choice: a long pole or spar rising from the keel or deck of a ship and supporting the yards, booms, and rigging
+        correct: false
+  - type: single-choice
+    question: scum
+    items:
+      - choice: the flesh of dead animals
+        correct: false
+      - choice: someone who is just an ordinary person
+        correct: false
+      - choice: a layer of something unpleasant or unwanted that forms on top of a liquid
+        correct: true
+      - choice: a trick that deludes
+        correct: false
+  - type: single-choice
+    question: sham
+    items:
+      - choice: the flesh of dead animals
+        correct: false
+      - choice: nuts (such as acorns) accumulated on the forest floor and often serving as food for animals
+        correct: false
+      - choice: a large undulating mass of something, typically cloud, smoke, or steam
+        correct: false
+      - choice: a trick that deludes
+        correct: true
+  - type: single-choice
+    question: slob
+    items:
+      - choice: a layer of something unpleasant or unwanted that forms on top of a liquid
+        correct: false
+      - choice: a person who is lazy and has low standards of cleanliness
+        correct: true
+      - choice: the flesh of dead animals
+        correct: false
+      - choice: a very strong wind (about 51 to 102 kilometers per hour)
+        correct: false
+  - type: single-choice
+    question: slob
+    items:
+      - choice: a long pole or spar rising from the keel or deck of a ship and supporting the yards, booms, and rigging
+        correct: false
+      - choice: nuts (such as acorns) accumulated on the forest floor and often serving as food for animals
+        correct: false
+      - choice: someone who is just an ordinary person
+        correct: true
+      - choice: a long curling wave of the sea
+        correct: false
+  - type: single-choice
+    question: when we got out on the street we saw a _______ of white smoke and the sound was deafening
+    items:
+      - choice: billow
+        correct: true
+      - choice: comber
+        correct: false
+      - choice: scum
+        correct: false
+      - choice: sham
+        correct: false
+  - type: single-choice
+    question: I went out to the back of the shop to get some stock and saw a _______ of black smoke come from under the door
+    items:
+      - choice: billow
+        correct: true
+      - choice: scum
+        correct: false
+      - choice: comber
+        correct: false
+      - choice: musing
+        correct: false
+  - type: single-choice
+    question: a crow wheeled over the hills in search of _______
+    items:
+      - choice: mast
+        correct: false
+      - choice: musing
+        correct: false
+      - choice: carrion
+        correct: true
+      - choice: comber
+        correct: false
+  - type: single-choice
+    question: they are often seen soaring in search of _______, but their diet also includes young goats and lambs
+    items:
+      - choice: carrion
+        correct: true
+      - choice: gurney
+        correct: false
+      - choice: sham
+        correct: false
+      - choice: lump
+        correct: false
+  - type: single-choice
+    question: I was caught in a _______ of snow; a maelstrom like the break of a tsunami
+    items:
+      - choice: carrion
+        correct: false
+      - choice: comber
+        correct: true
+      - choice: gale
+        correct: false
+      - choice: musing
+        correct: false
+  - type: single-choice
+    question: a rushing _______ swept the boat and nearly swamped it
+    items:
+      - choice: comber
+        correct: true
+      - choice: slob
+        correct: false
+      - choice: sham
+        correct: false
+      - choice: gale
+        correct: false
+  - type: single-choice
+    question: the other three colorways feature decorative _______ on the straps, which gives them a casual, heritage vibe
+    items:
+      - choice: comber
+        correct: false
+      - choice: embroidery
+        correct: true
+      - choice: billow
+        correct: false
+      - choice: carrion
+        correct: false
+  - type: single-choice
+    question: singer posted mask patterns, including ways to personalize them with _______, upcycling ideas and sewing tutorials to its website and social media
+    items:
+      - choice: embroidery
+        correct: true
+      - choice: billow
+        correct: false
+      - choice: musing
+        correct: false
+      - choice: slob
+        correct: false
+  - type: single-choice
+    question: the boat was damaged in a strong _______
+    items:
+      - choice: comber
+        correct: false
+      - choice: gale
+        correct: true
+      - choice: musing
+        correct: false
+      - choice: slob
+        correct: false
+  - type: single-choice
+    question: the tent was sturdy with triple-stitched seams and supported by heavy aluminum poles strong enough to withstand being buried in snow or the force of a _______
+    items:
+      - choice: gale
+        correct: true
+      - choice: embroidery
+        correct: false
+      - choice: gurney
+        correct: false
+      - choice: musing
+        correct: false
+  - type: single-choice
+    question: none of us present will forget the sight of him lying on the hospital _______ about to be wheeled into the operating room
+    items:
+      - choice: carrion
+        correct: false
+      - choice: embroidery
+        correct: false
+      - choice: slob
+        correct: false
+      - choice: gurney
+        correct: true
+  - type: single-choice
+    question: the paramedics put me on a _______ and wheeled me toward the ambulance
+    items:
+      - choice: mast
+        correct: false
+      - choice: comber
+        correct: false
+      - choice: gurney
+        correct: true
+      - choice: embroidery
+        correct: false
+  - type: single-choice
+    question: there was a _______ of ice floating in the milk
+    items:
+      - choice: lump
+        correct: true
+      - choice: slob
+        correct: false
+      - choice: gale
+        correct: false
+      - choice: musing
+        correct: false
+  - type: single-choice
+    question: Alex stared down at the _______ of an unknown substance currently residing on his lunch tray
+    items:
+      - choice: comber
+        correct: false
+      - choice: gurney
+        correct: false
+      - choice: carrion
+        correct: false
+      - choice: lump
+        correct: true
+  - type: single-choice
+    question: he explains that the native rats ate many kinds of berries, beech _______, and other wholesome foods of the forest
+    items:
+      - choice: carrion
+        correct: false
+      - choice: musing
+        correct: false
+      - choice: mast
+        correct: true
+      - choice: sham
+        correct: false
+  - type: single-choice
+    question: the first assumption is that _______ crops and small mammal populations are synchronized across a wide range
+    items:
+      - choice: mast
+        correct: true
+      - choice: gale
+        correct: false
+      - choice: billow
+        correct: false
+      - choice: embroidery
+        correct: false
+  - type: single-choice
+    question: the boom then swung precariously from the ongoing storm, but somehow stayed tied to the _______
+    items:
+      - choice: billow
+        correct: false
+      - choice: comber
+        correct: false
+      - choice: mast
+        correct: true
+      - choice: lump
+        correct: false
+  - type: single-choice
+    question: he was clearly in a _______ mood, and did not feel like talking just then
+    items:
+      - choice: comber
+        correct: false
+      - choice: gurney
+        correct: false
+      - choice: musing
+        correct: true
+      - choice: billow
+        correct: false
+  - type: single-choice
+    question: green _______ was found on stagnant pools
+    items:
+      - choice: comber
+        correct: false
+      - choice: musing
+        correct: false
+      - choice: scum
+        correct: true
+      - choice: gale
+        correct: false
+  - type: single-choice
+    question: there, waste components naturally separate, with heavier solids settling to the bottom forming sludge, and lighter solids floating to the top forming _______
+    items:
+      - choice: carrion
+        correct: false
+      - choice: gale
+        correct: false
+      - choice: slob
+        correct: false
+      - choice: scum
+        correct: true
+  - type: single-choice
+    question: boil the chicken and use a spoon to remove any _______ that floats to the surface
+    items:
+      - choice: billow
+        correct: false
+      - choice: lump
+        correct: false
+      - choice: embroidery
+        correct: false
+      - choice: scum
+        correct: true
+  - type: single-choice
+    question: the proposed legislation is a farce and a _______
+    items:
+      - choice: embroidery
+        correct: false
+      - choice: sham
+        correct: true
+      - choice: scum
+        correct: false
+      - choice: musing
+        correct: false
+  - type: single-choice
+    question: they claimed that the election had been fair, but really it was a _______
+    items:
+      - choice: comber
+        correct: false
+      - choice: gurney
+        correct: false
+      - choice: billow
+        correct: false
+      - choice: sham
+        correct: true
+  - type: single-choice
+    question: a _______ of a professor whose office was littered with a decade's worth of notes and student papers
+    items:
+      - choice: slob
+        correct: true
+      - choice: lump
+        correct: false
+      - choice: comber
+        correct: false
+      - choice: billow
+        correct: false
+  - type: single-choice
+    question: she's become a _______ who sits at home eating
+    items:
+      - choice: carrion
+        correct: false
+      - choice: slob
+        correct: true
+      - choice: mast
+        correct: false
+      - choice: comber
+        correct: false
+  - type: single-choice
+    question: he is just a poor working _______
+    items:
+      - choice: billow
+        correct: false
+      - choice: gale
+        correct: false
+      - choice: scum
+        correct: false
+      - choice: slob
+        correct: true

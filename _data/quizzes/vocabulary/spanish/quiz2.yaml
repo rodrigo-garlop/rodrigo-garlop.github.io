@@ -1,0 +1,399 @@
+title: Quiz ES-2
+randomize: true
+questions:
+  - type: single-choice
+    question: bermejo
+    items:
+      - choice: que no se puede o no se deja domar
+        correct: false
+      - choice: rubio, rojizo, referido especialmente al pelo
+        correct: true
+      - choice: bien adornado
+        correct: false
+      - choice: de la caza o relacionado con ella
+        correct: false
+  - type: single-choice
+    question: cinegético
+    items:
+      - choice: cachazudo, lento, flemático
+        correct: false
+      - choice: medicamento eficaz contra la fiebre
+        correct: false
+      - choice: de la caza o relacionado con ella
+        correct: true
+      - choice: necio, ignorante, simple
+        correct: false
+  - type: single-choice
+    question: febrífugo
+    items:
+      - choice: bien adornado
+        correct: false
+      - choice: que durará siempre; que, habiendo tenido principio, no tendrá fin
+        correct: false
+      - choice: que no se puede o no se deja domar
+        correct: false
+      - choice: medicamento eficaz contra la fiebre
+        correct: true
+  - type: single-choice
+    question: galano
+    items:
+      - choice: que tiene virtud de ablandar y suavizar
+        correct: false
+      - choice: bien adornado
+        correct: true
+      - choice: de la caza o relacionado con ella
+        correct: false
+      - choice: cachazudo, lento, flemático
+        correct: false
+  - type: single-choice
+    question: galano
+    items:
+      - choice: que tiene virtud de ablandar y suavizar
+        correct: false
+      - choice: rico, fértil, abundante
+        correct: false
+      - choice: rubio, rojizo, referido especialmente al pelo
+        correct: false
+      - choice: que viste bien, con aseo, compostura y primor
+        correct: true
+  - type: single-choice
+    question: halagüeño
+    items:
+      - choice: antiguo y arraigado
+        correct: false
+      - choice: medio para mitigar la pena o el sufrimiento
+        correct: false
+      - choice: que tiene virtud de ablandar y suavizar
+        correct: false
+      - choice: que lisonjea o adula; que promete cosas favorables
+        correct: true
+  - type: single-choice
+    question: indómito
+    items:
+      - choice: que lisonjea o adula; que promete cosas favorables
+        correct: false
+      - choice: que no se puede o no se deja domar
+        correct: true
+      - choice: cachazudo, lento, flemático
+        correct: false
+      - choice: de la caza o relacionado con ella
+        correct: false
+  - type: single-choice
+    question: inveterado
+    items:
+      - choice: antiguo y arraigado
+        correct: true
+      - choice: que tiene virtud de ablandar y suavizar
+        correct: false
+      - choice: rico, fértil, abundante
+        correct: false
+      - choice: necio, ignorante, simple
+        correct: false
+  - type: single-choice
+    question: lenitivo
+    items:
+      - choice: que tiene virtud de ablandar y suavizar
+        correct: true
+      - choice: que lisonjea o adula; que promete cosas favorables
+        correct: false
+      - choice: que viste bien, con aseo, compostura y primor
+        correct: false
+      - choice: necio, ignorante, simple
+        correct: false
+  - type: single-choice
+    question: lenitivo
+    items:
+      - choice: medio para mitigar la pena o el sufrimiento
+        correct: true
+      - choice: de la caza o relacionado con ella
+        correct: false
+      - choice: rico, fértil, abundante
+        correct: false
+      - choice: bien adornado
+        correct: false
+  - type: single-choice
+    question: opimo
+    items:
+      - choice: antiguo y arraigado
+        correct: false
+      - choice: medio para mitigar la pena o el sufrimiento
+        correct: false
+      - choice: rico, fértil, abundante
+        correct: true
+      - choice: que viste bien, con aseo, compostura y primor
+        correct: false
+  - type: single-choice
+    question: parsimonioso
+    items:
+      - choice: antiguo y arraigado
+        correct: false
+      - choice: que no se puede o no se deja domar
+        correct: false
+      - choice: cachazudo, lento, flemático
+        correct: true
+      - choice: de la caza o relacionado con ella
+        correct: false
+  - type: single-choice
+    question: sandio
+    items:
+      - choice: que viste bien, con aseo, compostura y primor
+        correct: false
+      - choice: necio, ignorante, simple
+        correct: true
+      - choice: rico, fértil, abundante
+        correct: false
+      - choice: cachazudo, lento, flemático
+        correct: false
+  - type: single-choice
+    question: sempiterno
+    items:
+      - choice: medicamento eficaz contra la fiebre
+        correct: false
+      - choice: que no se puede o no se deja domar
+        correct: false
+      - choice: cachazudo, lento, flemático
+        correct: false
+      - choice: que durará siempre; que, habiendo tenido principio, no tendrá fin
+        correct: true
+  - type: single-choice
+    question: cabello _______, piel blanca y muy alto, sin duda alguna, era hermoso
+    items:
+      - choice: indómito
+        correct: false
+      - choice: febrífugo
+        correct: false
+      - choice: lenitivo
+        correct: false
+      - choice: bermejo
+        correct: true
+  - type: single-choice
+    question: el sector _______ se reúne con el ministro de Agricultura y demanda la reactivación inmediata de la caza
+    items:
+      - choice: febrífugo
+        correct: false
+      - choice: sempiterno
+        correct: false
+      - choice: bermejo
+        correct: false
+      - choice: cinegético
+        correct: true
+  - type: single-choice
+    question: habrá que esperar para las dos grandes fechas del calendario _______ andaluz, que serán el inicio de la temporada de caza menor, que se producirá el 11 de octubre, y el de la caza mayor, que comenzará el 17 de octubre
+    items:
+      - choice: febrífugo
+        correct: false
+      - choice: galano
+        correct: false
+      - choice: sandio
+        correct: false
+      - choice: cinegético
+        correct: true
+  - type: single-choice
+    question: la joven cazadora ha defendido el mundo _______ además de denunciar los múltiples y diarios ataques que sufre el colectivo de cazadores, especialmente a través de las redes sociales
+    items:
+      - choice: lenitivo
+        correct: false
+      - choice: cinegético
+        correct: true
+      - choice: inveterado
+        correct: false
+      - choice: galano
+        correct: false
+  - type: single-choice
+    question: se trata de un reconocido recurso herbario, recogido también en la tradición medicinal china, al que se le atribuye un efecto _______ y antiséptico
+    items:
+      - choice: lenitivo
+        correct: false
+      - choice: sandio
+        correct: false
+      - choice: sempiterno
+        correct: false
+      - choice: febrífugo
+        correct: true
+  - type: single-choice
+    question: la quina se extrae de la corteza de un árbol de origen americano, y se usó siempre como _______
+    items:
+      - choice: febrífugo
+        correct: true
+      - choice: indómito
+        correct: false
+      - choice: halagüeño
+        correct: false
+      - choice: inveterado
+        correct: false
+  - type: single-choice
+    question: a sus ochenta años tiene buen porte, aún muy _______
+    items:
+      - choice: bermejo
+        correct: false
+      - choice: galano
+        correct: true
+      - choice: cinegético
+        correct: false
+      - choice: halagüeño
+        correct: false
+  - type: single-choice
+    question: un nuevo informe nada _______ muestra que la sequía continuará
+    items:
+      - choice: cinegético
+        correct: false
+      - choice: halagüeño
+        correct: true
+      - choice: sempiterno
+        correct: false
+      - choice: galano
+        correct: false
+  - type: single-choice
+    question: no me gustan los subordinados _______s, lamebotas
+    items:
+      - choice: halagüeño
+        correct: true
+      - choice: bermejo
+        correct: false
+      - choice: cinegético
+        correct: false
+      - choice: parsimonioso
+        correct: false
+  - type: single-choice
+    question: fue impresionante poder observar al león _______ en su propio hábitat
+    items:
+      - choice: bermejo
+        correct: false
+      - choice: galano
+        correct: false
+      - choice: inveterado
+        correct: false
+      - choice: indómito
+        correct: true
+  - type: single-choice
+    question: no pocos españoles creen vivir en una nación enferma, cuya historia es el relato de un _______ atraso y de una interminable decadencia
+    items:
+      - choice: inveterado
+        correct: true
+      - choice: bermejo
+        correct: false
+      - choice: opimo
+        correct: false
+      - choice: sandio
+        correct: false
+  - type: single-choice
+    question: la mayoría son jóvenes que plantan cara a las autoridades para decir basta al problema _______ de la violencia machista contra ellas
+    items:
+      - choice: galano
+        correct: false
+      - choice: sandio
+        correct: false
+      - choice: inveterado
+        correct: true
+      - choice: halagüeño
+        correct: false
+  - type: single-choice
+    question: por su condición de bálsamo y _______ espiritual, la música debería formar parte del campo de la salud
+    items:
+      - choice: parsimonioso
+        correct: false
+      - choice: lenitivo
+        correct: true
+      - choice: halagüeño
+        correct: false
+      - choice: febrífugo
+        correct: false
+  - type: single-choice
+    question: se le viene denominando el opio del pueblo, aunque posiblemente también sea un _______ muy necesario para apaciguar las innumerables emociones negativas y los sinsabores que la vida cotidiana nos inflige
+    items:
+      - choice: lenitivo
+        correct: true
+      - choice: galano
+        correct: false
+      - choice: opimo
+        correct: false
+      - choice: cinegético
+        correct: false
+  - type: single-choice
+    question: haré un viaje como _______ para olvidar el despido
+    items:
+      - choice: lenitivo
+        correct: true
+      - choice: halagüeño
+        correct: false
+      - choice: bermejo
+        correct: false
+      - choice: galano
+        correct: false
+  - type: single-choice
+    question: la madre de Pepito era de busto generoso, _______, exuberante, ubérrimo, abundante
+    items:
+      - choice: parsimonioso
+        correct: false
+      - choice: lenitivo
+        correct: false
+      - choice: febrífugo
+        correct: false
+      - choice: opimo
+        correct: true
+  - type: single-choice
+    question: es tan _______ que parece que siempre está dormido
+    items:
+      - choice: febrífugo
+        correct: false
+      - choice: bermejo
+        correct: false
+      - choice: lenitivo
+        correct: false
+      - choice: parsimonioso
+        correct: true
+  - type: single-choice
+    question: con los ojos cubiertos de grises cataratas me tomaba del brazo con su paso _______ cuidando no caer para cruzar la calle mojada
+    items:
+      - choice: febrífugo
+        correct: false
+      - choice: lenitivo
+        correct: false
+      - choice: bermejo
+        correct: false
+      - choice: parsimonioso
+        correct: true
+  - type: single-choice
+    question: pasó con su andar de gato, _______ y explorador
+    items:
+      - choice: sempiterno
+        correct: false
+      - choice: indómito
+        correct: false
+      - choice: parsimonioso
+        correct: true
+      - choice: halagüeño
+        correct: false
+  - type: single-choice
+    question: nuestro pueblo es _______, sin gracia alguna, desprovisto de toda poesía y originalidad que puedan dar nacimiento siquiera a una pobre sensación artística
+    items:
+      - choice: opimo
+        correct: false
+      - choice: sandio
+        correct: true
+      - choice: parsimonioso
+        correct: false
+      - choice: indómito
+        correct: false
+  - type: single-choice
+    question: decían de él ser un ignorante y _______, mero instrumento de políticos inteligentes, perversos y manipuladores
+    items:
+      - choice: lenitivo
+        correct: false
+      - choice: sandio
+        correct: true
+      - choice: febrífugo
+        correct: false
+      - choice: sempiterno
+        correct: false
+  - type: single-choice
+    question: 'tienen los mismos pilares del Islam: la creencia del Dios omnipotente y _______'
+    items:
+      - choice: galano
+        correct: false
+      - choice: sandio
+        correct: false
+      - choice: febrífugo
+        correct: false
+      - choice: sempiterno
+        correct: true
