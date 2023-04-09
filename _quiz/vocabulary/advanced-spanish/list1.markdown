@@ -1,7 +1,7 @@
 ---
 layout: quiz
 category: vocabulary
-language: spanish
+vocabulary: advanced-spanish
 name: quiz1
 date: 2023-03-26
 ---

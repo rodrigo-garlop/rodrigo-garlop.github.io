@@ -1,6 +1,6 @@
 ---
 layout: vocabulary-list
-language: spanish
+vocabulary: advanced-spanish
 name: List 2
 date: 2023-03-04
 ---

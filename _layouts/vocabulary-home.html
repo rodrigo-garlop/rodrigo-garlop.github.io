@@ -6,11 +6,11 @@ layout: default
 
 {{ content }}
 
-<h3> Spanish Vocabulary Lists </h3>
+<h3> Advanced Spanish Vocabulary </h3>
 
 <ul>
     {%- for list in site.vocabulary -%}
-        {%- if list.language == "spanish" -%}
+        {%- if list.vocabulary == "advanced-spanish" -%}
         <li>
             <h3>
                 <a href="{{ list.url | relative_url }}">
@@ -22,11 +22,11 @@ layout: default
     {%- endfor -%}
 </ul>
 
-<h3> English Vocabulary Lists </h3>
+<h3> Advanced English Vocabulary </h3>
 
 <ul>
     {%- for list in site.vocabulary -%}
-    {%- if list.language == "english" -%}
+    {%- if list.vocabulary == "advanced-english" -%}
     <li>
         <h3>
             <a href="{{ list.url | relative_url }}">

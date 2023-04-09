@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% if page.category == "vocabulary" %}
-    {% assign quiz = site.data.quizzes[page.category][page.language][page.name] %}
+    {% assign quiz = site.data.quizzes[page.category][page.vocabulary][page.name] %}
 {% else %}
     {% assign quiz = site.data.quizzes[page.category][page.name] %}
 {% endif %}

@@ -1,6 +1,6 @@
 ---
 layout: vocabulary-list
-language: english
+vocabulary: advanced-english
 name: List 3
 date: 2023-04-09
 ---
