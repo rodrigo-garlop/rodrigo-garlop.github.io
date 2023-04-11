@@ -37,3 +37,19 @@ layout: default
     {% endif %}
     {%- endfor -%}
 </ul>
+
+<h3> Beginner-Intermediate French Vocabulary </h3>
+
+<ul>
+    {%- for list in site.vocabulary -%}
+    {%- if list.vocabulary == "beginner-intermediate-french" -%}
+    <li>
+        <h3>
+            <a href="{{ list.url | relative_url }}">
+                {{ list.name | escape }}
+            </a>
+        </h3>
+    </li>
+    {% endif %}
+    {%- endfor -%}
+</ul>
