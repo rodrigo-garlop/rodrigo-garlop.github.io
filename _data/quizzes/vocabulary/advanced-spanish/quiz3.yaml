@@ -1,0 +1,356 @@
+title: quiz3
+randomize: true
+questions:
+  - type: single-choice
+    question: abigarrar
+    items:
+      - choice: quitar la humedad superficial de algo absorbiéndola con un paño, una esponja
+        correct: false
+      - choice: inducir a alguien a una acción, generalmente considerada como negativa
+        correct: false
+      - choice: dar o poner a algo varios colores mal combinados
+        correct: true
+      - choice: proferir palabras con que se expresa el vivo deseo de que alguien sufra mal o daño
+        correct: false
+  - type: single-choice
+    question: aquilatar
+    items:
+      - choice: formar juicio de algo por indicios u observaciones
+        correct: false
+      - choice: quitar a alguien lo que le pertenece violenta o injustamente
+        correct: false
+      - choice: examinar y graduar los quilates del oro y de las perlas y piedras preciosas
+        correct: true
+      - choice: proferir palabras con que se expresa el vivo deseo de que alguien sufra mal o daño
+        correct: false
+  - type: single-choice
+    question: aquilatar
+    items:
+      - choice: examinar y apreciar con rigor el mérito de alguien o el mérito o verdad de algo
+        correct: true
+      - choice: inducir a alguien a una acción, generalmente considerada como negativa
+        correct: false
+      - choice: formar juicio de algo por indicios u observaciones
+        correct: false
+      - choice: pervertir, contaminar a alguien con el mal ejemplo o la falsa doctrina
+        correct: false
+  - type: single-choice
+    question: conjeturar
+    items:
+      - choice: enemistar a alguien con otra u otras personas
+        correct: false
+      - choice: formar juicio de algo por indicios u observaciones
+        correct: true
+      - choice: proferir palabras con que se expresa el vivo deseo de que alguien sufra mal o daño
+        correct: false
+      - choice: trastornar o alterar algo, especialmente el orden establecido
+        correct: false
+  - type: single-choice
+    question: enarbolar
+    items:
+      - choice: trastornar o alterar algo, especialmente el orden establecido
+        correct: false
+      - choice: levantar un estandarte o una bandera en alto
+        correct: true
+      - choice: pervertir, contaminar a alguien con el mal ejemplo o la falsa doctrina
+        correct: false
+      - choice: examinar y graduar los quilates del oro y de las perlas y piedras preciosas
+        correct: false
+  - type: single-choice
+    question: enjugar
+    items:
+      - choice: enemistar a alguien con otra u otras personas
+        correct: false
+      - choice: condenar y maldecir con autoridad sacerdotal o en nombre de cosas sagradas
+        correct: false
+      - choice: quitar a alguien lo que le pertenece violenta o injustamente
+        correct: false
+      - choice: quitar la humedad superficial de algo absorbiéndola con un paño, una esponja
+        correct: true
+  - type: single-choice
+    question: execrar
+    items:
+      - choice: condenar y maldecir con autoridad sacerdotal o en nombre de cosas sagradas
+        correct: true
+      - choice: formar juicio de algo por indicios u observaciones
+        correct: false
+      - choice: inducir a alguien a una acción, generalmente considerada como negativa
+        correct: false
+      - choice: proferir palabras con que se expresa el vivo deseo de que alguien sufra mal o daño
+        correct: false
+  - type: single-choice
+    question: expoliar
+    items:
+      - choice: quitar la humedad superficial de algo absorbiéndola con un paño, una esponja
+        correct: false
+      - choice: proferir palabras con que se expresa el vivo deseo de que alguien sufra mal o daño
+        correct: false
+      - choice: pervertir, contaminar a alguien con el mal ejemplo o la falsa doctrina
+        correct: false
+      - choice: quitar a alguien lo que le pertenece violenta o injustamente
+        correct: true
+  - type: single-choice
+    question: imprecar
+    items:
+      - choice: proferir palabras con que se expresa el vivo deseo de que alguien sufra mal o daño
+        correct: true
+      - choice: quitar a alguien lo que le pertenece violenta o injustamente
+        correct: false
+      - choice: inducir a alguien a una acción, generalmente considerada como negativa
+        correct: false
+      - choice: formar juicio de algo por indicios u observaciones
+        correct: false
+  - type: single-choice
+    question: inocular
+    items:
+      - choice: dar o poner a algo varios colores mal combinados
+        correct: false
+      - choice: proferir palabras con que se expresa el vivo deseo de que alguien sufra mal o daño
+        correct: false
+      - choice: formar juicio de algo por indicios u observaciones
+        correct: false
+      - choice: pervertir, contaminar a alguien con el mal ejemplo o la falsa doctrina
+        correct: true
+  - type: single-choice
+    question: instigar
+    items:
+      - choice: pervertir, contaminar a alguien con el mal ejemplo o la falsa doctrina
+        correct: false
+      - choice: condenar y maldecir con autoridad sacerdotal o en nombre de cosas sagradas
+        correct: false
+      - choice: inducir a alguien a una acción, generalmente considerada como negativa
+        correct: true
+      - choice: quitar la humedad superficial de algo absorbiéndola con un paño, una esponja
+        correct: false
+  - type: single-choice
+    question: malquistar
+    items:
+      - choice: proferir palabras con que se expresa el vivo deseo de que alguien sufra mal o daño
+        correct: false
+      - choice: levantar un estandarte o una bandera en alto
+        correct: false
+      - choice: enemistar a alguien con otra u otras personas
+        correct: true
+      - choice: formar juicio de algo por indicios u observaciones
+        correct: false
+  - type: single-choice
+    question: subvertir
+    items:
+      - choice: examinar y apreciar con rigor el mérito de alguien o el mérito o verdad de algo
+        correct: false
+      - choice: inducir a alguien a una acción, generalmente considerada como negativa
+        correct: false
+      - choice: examinar y graduar los quilates del oro y de las perlas y piedras preciosas
+        correct: false
+      - choice: trastornar o alterar algo, especialmente el orden establecido
+        correct: true
+  - type: single-choice
+    question: si estamos retratando objetos de formas muy similares, no conviene _______ demasiado el espacio
+    items:
+      - choice: aquilatar
+        correct: false
+      - choice: inocular
+        correct: false
+      - choice: abigarrar
+        correct: true
+      - choice: malquistar
+        correct: false
+  - type: single-choice
+    question: no podemos seguir así, es tiempo de reflexionar, pensar, _______ el valor de nuestras vidas
+    items:
+      - choice: malquistar
+        correct: false
+      - choice: inocular
+        correct: false
+      - choice: aquilatar
+        correct: true
+      - choice: instigar
+        correct: false
+  - type: single-choice
+    question: los dominicanos hemos  aprendido a _______ los valores que representan la democracia libertad, justicia y equidad, cuyo anhelo de preservación y consolidación nos guían
+    items:
+      - choice: enarbolar
+        correct: false
+      - choice: aquilatar
+        correct: true
+      - choice: execrar
+        correct: false
+      - choice: imprecar
+        correct: false
+  - type: single-choice
+    question: podemos _______ sobre su vida privada, aunque no la conocemos
+    items:
+      - choice: execrar
+        correct: false
+      - choice: enjugar
+        correct: false
+      - choice: conjeturar
+        correct: true
+      - choice: expoliar
+        correct: false
+  - type: single-choice
+    question: personalmente creo que se puede _______ que la apertura de las escuelas se pospondrá al próximo año
+    items:
+      - choice: imprecar
+        correct: false
+      - choice: execrar
+        correct: false
+      - choice: conjeturar
+        correct: true
+      - choice: aquilatar
+        correct: false
+  - type: single-choice
+    question: el secretario de Estado de Estados Unidos anunció a principios de 2021 que las embajadas y consulados del país en todo el mundo podrían _______ la bandera del "orgullo" gay en el mismo mástil que la bandera estadounidense, durante "la temporada
+      del "orgullo"
+    items:
+      - choice: enarbolar
+        correct: true
+      - choice: imprecar
+        correct: false
+      - choice: subvertir
+        correct: false
+      - choice: malquistar
+        correct: false
+  - type: single-choice
+    question: hay que purgarse, digerir, _______ lágrimas y tragar saliva, y a partir de ahí focalizar en el objetivo, con fuerzas renovadas
+    items:
+      - choice: execrar
+        correct: false
+      - choice: abigarrar
+        correct: false
+      - choice: expoliar
+        correct: false
+      - choice: enjugar
+        correct: true
+  - type: single-choice
+    question: después de _______ el sudor de su frente, retomó la rutina de ejercicios
+    items:
+      - choice: inocular
+        correct: false
+      - choice: malquistar
+        correct: false
+      - choice: aquilatar
+        correct: false
+      - choice: enjugar
+        correct: true
+  - type: single-choice
+    question: constataron que en el taller muchas veces la veían _______ una lágrima
+    items:
+      - choice: aquilatar
+        correct: false
+      - choice: abigarrar
+        correct: false
+      - choice: enarbolar
+        correct: false
+      - choice: enjugar
+        correct: true
+  - type: single-choice
+    question: hay grabados dibujados de época romana y bizantina, cruces coptas e inscripciones árabes con el objetivo de _______ el paganismo y los malos espíritus
+    items:
+      - choice: conjeturar
+        correct: false
+      - choice: malquistar
+        correct: false
+      - choice: execrar
+        correct: true
+      - choice: aquilatar
+        correct: false
+  - type: single-choice
+    question: al gobernador sólo le interesan los pueblos para _______ sus ahorros
+    items:
+      - choice: expoliar
+        correct: true
+      - choice: abigarrar
+        correct: false
+      - choice: aquilatar
+        correct: false
+      - choice: conjeturar
+        correct: false
+  - type: single-choice
+    question: es muy común de Jorge _______ a los futbolistas del equipo contrario
+    items:
+      - choice: abigarrar
+        correct: false
+      - choice: aquilatar
+        correct: false
+      - choice: imprecar
+        correct: true
+      - choice: enarbolar
+        correct: false
+  - type: single-choice
+    question: nos intentan _______ su ideología mediante la hipocresía de la buenas palabras con que siempre triunfan los dictadores
+    items:
+      - choice: enjugar
+        correct: false
+      - choice: inocular
+        correct: true
+      - choice: enarbolar
+        correct: false
+      - choice: aquilatar
+        correct: false
+  - type: single-choice
+    question: el régimen venezolano detuvo al director de un medio digital acusado de _______ a la violencia
+    items:
+      - choice: expoliar
+        correct: false
+      - choice: malquistar
+        correct: false
+      - choice: instigar
+        correct: true
+      - choice: subvertir
+        correct: false
+  - type: single-choice
+    question: detienen a un joven por _______ a realizar saqueos en redes sociales
+    items:
+      - choice: subvertir
+        correct: false
+      - choice: instigar
+        correct: true
+      - choice: malquistar
+        correct: false
+      - choice: enjugar
+        correct: false
+  - type: single-choice
+    question: la reforma eclesiástica inspirada por Rivadavia en 1822 iba a _______ al gobierno con el clero, pero además despertó recelos en las provincias interiores
+    items:
+      - choice: execrar
+        correct: false
+      - choice: inocular
+        correct: false
+      - choice: abigarrar
+        correct: false
+      - choice: malquistar
+        correct: true
+  - type: single-choice
+    question: el gobierno nacional ha logrado en pocas semanas el triste récord de haber conseguido _______ todas las relaciones bilaterales de la Argentina con sus vecinos e incluso dañar vínculos diplomáticos con países lejanos
+    items:
+      - choice: expoliar
+        correct: false
+      - choice: imprecar
+        correct: false
+      - choice: instigar
+        correct: false
+      - choice: malquistar
+        correct: true
+  - type: single-choice
+    question: la nueva moral sexual busca _______ los valores anteriores
+    items:
+      - choice: malquistar
+        correct: false
+      - choice: expoliar
+        correct: false
+      - choice: instigar
+        correct: false
+      - choice: subvertir
+        correct: true
+  - type: single-choice
+    question: fueron acusados de crear una organización extremista para _______ el orden constitucional y crear un nuevo Gobierno
+    items:
+      - choice: aquilatar
+        correct: false
+      - choice: expoliar
+        correct: false
+      - choice: subvertir
+        correct: true
+      - choice: conjeturar
+        correct: false
