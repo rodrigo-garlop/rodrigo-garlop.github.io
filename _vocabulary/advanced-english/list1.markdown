@@ -3,6 +3,7 @@ layout: vocabulary-list
 vocabulary: advanced-english
 name: List 1
 date: 2023-03-04
+hasquiz: true
 ---
 
 #### billow [n.]

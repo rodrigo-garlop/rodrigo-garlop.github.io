@@ -3,6 +3,7 @@ layout: vocabulary-list
 vocabulary: advanced-spanish
 name: List 1
 date: 2023-03-04
+hasquiz: true
 ---
 
 #### arcipreste [m.]

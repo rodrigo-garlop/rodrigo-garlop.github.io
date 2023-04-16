@@ -13,8 +13,11 @@ layout: default
 
 {{ content }}
 
-<div class="quiz-btn-container">
-    <a href="/quiz{{ page.url | relative_url }}" class="quiz-btn">
-        Quiz
-    </a>
-</div>
+
+{% if page.hasquiz == true %}
+    <div class="quiz-btn-container">
+        <a href="/quiz{{ page.url | relative_url }}" class="quiz-btn">
+            Quiz
+        </a>
+    </div>
+{% endif %}

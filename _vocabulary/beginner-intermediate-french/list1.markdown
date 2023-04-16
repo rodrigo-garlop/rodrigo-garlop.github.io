@@ -3,6 +3,7 @@ layout: vocabulary-list
 vocabulary: beginner-intermediate-french
 name: Les pièces de la maison
 date: 2023-04-09
+hasquiz: false
 ---
 
 #### balcon [m.]

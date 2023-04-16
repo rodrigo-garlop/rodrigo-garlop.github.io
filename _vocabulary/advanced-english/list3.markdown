@@ -3,6 +3,7 @@ layout: vocabulary-list
 vocabulary: advanced-english
 name: List 3
 date: 2023-04-09
+hasquiz: true
 ---
 
 #### befit [tr.]
