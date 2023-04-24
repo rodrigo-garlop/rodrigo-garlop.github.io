@@ -50,6 +50,18 @@ hasquiz: false
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Modern_Kitchen.jpg/220px-Modern_Kitchen.jpg)
 
+#### fenêtre [m.]
+
+*(es. ventana)*
+
+1.  ouverture faite dans certaines parties d’un bâtiment, pour donner du jour et de l’air à l’intérieur.
+
+> par la **fenêtre** entr’ouverte, l’air entrait, gonflant comme une voile les rideaux de mousseline, et j’apercevais un pan de ciel bleu
+
+> j'ouvrirais la fenêtre et l'air entrera
+
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/As_kyrka_ChurchWindow_cropped.jpg/220px-As_kyrka_ChurchWindow_cropped.jpg)
+
 #### garage [m.]
 
 *(es. cochera)*
@@ -103,6 +115,16 @@ hasquiz: false
 >  tout l'endroit est entouré d'un **mur**, les deux portes gardées étant le seul moyen d’entrer ou de sortir
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Stone_wall.jpg/220px-Stone_wall.jpg)
+
+#### porte [f.]
+
+*(es. puerta)*
+
+1.  ouverture battante dans un mur qui permet d’entrer ou sortir d’un endroit.
+
+>  a cet instant, la **porte** de la rue s’ouvrit et un homme encore jeune, visiblement saoul, entra
+
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Door_of_Unity%2C_Prysten_House%2C_Plymouth.jpg/160px-Door_of_Unity%2C_Prysten_House%2C_Plymouth.jpg)
 
 #### salle à manger [f.]
 
