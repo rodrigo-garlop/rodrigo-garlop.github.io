@@ -25,15 +25,6 @@ hasquiz: true
 > they are often seen soaring in search of **carrion**, but their diet also includes young goats and lambs
 
 
-#### comber [n.]
-
-1. a long curling wave of the sea.
-
-> I was caught in a **comber** of snow; a maelstrom like the break of a tsunami
-
-> a rushing **comber** swept the boat and nearly swamped it
-
-
 #### embroidery [n.]
 
 1. the art or process of forming decorative designs with hand or machine needlework.
@@ -50,6 +41,20 @@ hasquiz: true
 > the boat was damaged in a strong **gale**
 
 > the tent was sturdy with triple-stitched seams and supported by heavy aluminum poles strong enough to withstand being buried in snow or the force of a **gale**
+
+
+#### grief [n.]
+
+1. deep sorrow, especially that caused by someone's death.
+2. trouble, annoyance.
+
+> she was well known and respected in the area and her death has caused much **grief** and sorrow
+
+> he has been unable to recover from his **grief** at his son's death
+
+> words could not describe the **grief** felt by the small but united community of Nurney
+
+> I had no idea that forgetting my driving licence would cause me so much **grief**
 
 
 #### gurney [n.]

@@ -4,539 +4,539 @@ questions:
   - type: single-choice
     question: bashful
     items:
-      - choice: existing in a state of intellectual, moral, or social darkness
-        correct: false
-      - choice: (of a person or their manner) very serious especially in an unfriendly way
-        correct: false
-      - choice: socially shy or timid
-        correct: true
-      - choice: refusing to be cooperative or cheerful
-        correct: false
-  - type: single-choice
-    question: benighted
-    items:
-      - choice: overtaken by darkness or night
-        correct: true
-      - choice: dark or poorly lit, especially so as to appear depressing or frightening
-        correct: false
-      - choice: socially shy or timid
-        correct: false
       - choice: morose, bad-tempered, and resentful
         correct: false
+      - choice: resulting from or showing sincere and intense conviction
+        correct: false
+      - choice: eager or quick to argue, quarrel, or fight
+        correct: false
+      - choice: socially shy or timid
+        correct: true
   - type: single-choice
     question: benighted
     items:
-      - choice: (of a person or their manner) very serious especially in an unfriendly way
+      - choice: believing something that is not true
         correct: false
-      - choice: dark or poorly lit, especially so as to appear depressing or frightening
+      - choice: overtaken by darkness or night
+        correct: true
+      - choice: refusing to be cooperative or cheerful
         correct: false
       - choice: lacking in promise or hopefulness
         correct: false
+  - type: single-choice
+    question: benighted
+    items:
+      - choice: morose, bad-tempered, and resentful
+        correct: false
+      - choice: (of a person) constantly harassing someone to do something
+        correct: false
       - choice: existing in a state of intellectual, moral, or social darkness
         correct: true
+      - choice: dark or poorly lit, especially so as to appear depressing or frightening
+        correct: false
   - type: single-choice
     question: churlish
     items:
+      - choice: overtaken by darkness or night
+        correct: false
+      - choice: causing continual or recurring pain or discomfort
+        correct: false
       - choice: rude in a mean-spirited and surly way
         correct: true
-      - choice: refusing to be cooperative or cheerful
-        correct: false
-      - choice: morose, bad-tempered, and resentful
-        correct: false
-      - choice: (of a task or responsibility) involving a great deal of effort, trouble, or difficulty
+      - choice: believing something that is not true
         correct: false
   - type: single-choice
     question: deluded
     items:
-      - choice: morose, bad-tempered, and resentful
+      - choice: socially shy or timid
+        correct: false
+      - choice: lacking in promise or hopefulness
+        correct: false
+      - choice: (of a person) constantly harassing someone to do something
         correct: false
       - choice: believing something that is not true
         correct: true
-      - choice: socially shy or timid
-        correct: false
-      - choice: (of a person or their manner) very serious especially in an unfriendly way
-        correct: false
   - type: single-choice
     question: earnest
     items:
-      - choice: (of a person) constantly harassing someone to do something
-        correct: false
       - choice: resulting from or showing sincere and intense conviction
         correct: true
-      - choice: dark or poorly lit, especially so as to appear depressing or frightening
-        correct: false
-      - choice: morose, bad-tempered, and resentful
-        correct: false
-  - type: single-choice
-    question: gloomy
-    items:
-      - choice: refusing to be cooperative or cheerful
-        correct: false
-      - choice: (of a person or their manner) very serious especially in an unfriendly way
-        correct: false
-      - choice: dark or poorly lit, especially so as to appear depressing or frightening
-        correct: true
-      - choice: causing continual or recurring pain or discomfort
-        correct: false
-  - type: single-choice
-    question: gloomy
-    items:
-      - choice: believing something that is not true
+      - choice: (of a task or responsibility) involving a great deal of effort, trouble, or difficulty
         correct: false
       - choice: socially shy or timid
         correct: false
-      - choice: existing in a state of intellectual, moral, or social darkness
+      - choice: full of danger or risk
+        correct: false
+  - type: single-choice
+    question: gloomy
+    items:
+      - choice: (of a task or responsibility) involving a great deal of effort, trouble, or difficulty
+        correct: false
+      - choice: dark or poorly lit, especially so as to appear depressing or frightening
+        correct: true
+      - choice: socially shy or timid
+        correct: false
+      - choice: refusing to be cooperative or cheerful
+        correct: false
+  - type: single-choice
+    question: gloomy
+    items:
+      - choice: socially shy or timid
         correct: false
       - choice: lacking in promise or hopefulness
         correct: true
+      - choice: overtaken by darkness or night
+        correct: false
+      - choice: rude in a mean-spirited and surly way
+        correct: false
   - type: single-choice
     question: nagging
     items:
-      - choice: dark or poorly lit, especially so as to appear depressing or frightening
+      - choice: resulting from or showing sincere and intense conviction
         correct: false
       - choice: socially shy or timid
         correct: false
       - choice: (of a person) constantly harassing someone to do something
         correct: true
-      - choice: overtaken by darkness or night
+      - choice: (of a task or responsibility) involving a great deal of effort, trouble, or difficulty
         correct: false
   - type: single-choice
     question: nagging
     items:
-      - choice: believing something that is not true
-        correct: false
-      - choice: resulting from or showing sincere and intense conviction
-        correct: false
-      - choice: (of a task or responsibility) involving a great deal of effort, trouble, or difficulty
-        correct: false
       - choice: causing continual or recurring pain or discomfort
         correct: true
-  - type: single-choice
-    question: onerous
-    items:
-      - choice: (of a task or responsibility) involving a great deal of effort, trouble, or difficulty
-        correct: true
-      - choice: resulting from or showing sincere and intense conviction
+      - choice: eager or quick to argue, quarrel, or fight
+        correct: false
+      - choice: lacking in promise or hopefulness
         correct: false
       - choice: overtaken by darkness or night
         correct: false
-      - choice: socially shy or timid
+  - type: single-choice
+    question: onerous
+    items:
+      - choice: resulting from or showing sincere and intense conviction
+        correct: false
+      - choice: (of a person or their manner) very serious especially in an unfriendly way
+        correct: false
+      - choice: (of a task or responsibility) involving a great deal of effort, trouble, or difficulty
+        correct: true
+      - choice: lacking in promise or hopefulness
         correct: false
   - type: single-choice
     question: perilous
     items:
-      - choice: dark or poorly lit, especially so as to appear depressing or frightening
+      - choice: morose, bad-tempered, and resentful
         correct: false
-      - choice: rude in a mean-spirited and surly way
+      - choice: overtaken by darkness or night
+        correct: false
+      - choice: causing continual or recurring pain or discomfort
         correct: false
       - choice: full of danger or risk
         correct: true
-      - choice: lacking in promise or hopefulness
-        correct: false
   - type: single-choice
     question: pugnacious
     items:
-      - choice: dark or poorly lit, especially so as to appear depressing or frightening
-        correct: false
       - choice: eager or quick to argue, quarrel, or fight
         correct: true
       - choice: (of a person) constantly harassing someone to do something
+        correct: false
+      - choice: overtaken by darkness or night
         correct: false
       - choice: resulting from or showing sincere and intense conviction
         correct: false
   - type: single-choice
     question: stern
     items:
-      - choice: existing in a state of intellectual, moral, or social darkness
+      - choice: causing continual or recurring pain or discomfort
         correct: false
-      - choice: believing something that is not true
+      - choice: refusing to be cooperative or cheerful
+        correct: false
+      - choice: existing in a state of intellectual, moral, or social darkness
         correct: false
       - choice: (of a person or their manner) very serious especially in an unfriendly way
         correct: true
-      - choice: causing continual or recurring pain or discomfort
-        correct: false
   - type: single-choice
     question: sulky
     items:
-      - choice: morose, bad-tempered, and resentful
-        correct: true
+      - choice: rude in a mean-spirited and surly way
+        correct: false
       - choice: (of a task or responsibility) involving a great deal of effort, trouble, or difficulty
         correct: false
-      - choice: causing continual or recurring pain or discomfort
-        correct: false
-      - choice: believing something that is not true
+      - choice: morose, bad-tempered, and resentful
+        correct: true
+      - choice: lacking in promise or hopefulness
         correct: false
   - type: single-choice
     question: sulky
     items:
-      - choice: full of danger or risk
+      - choice: socially shy or timid
         correct: false
-      - choice: lacking in promise or hopefulness
+      - choice: dark or poorly lit, especially so as to appear depressing or frightening
         correct: false
       - choice: refusing to be cooperative or cheerful
         correct: true
-      - choice: rude in a mean-spirited and surly way
+      - choice: (of a person) constantly harassing someone to do something
         correct: false
   - type: single-choice
     question: don't be _______ about telling folks how you feel
     items:
+      - choice: onerous
+        correct: false
       - choice: bashful
         correct: true
-      - choice: perilous
-        correct: false
       - choice: gloomy
         correct: false
-      - choice: churlish
+      - choice: sulky
         correct: false
   - type: single-choice
     question: Emy, always modest and _______, had blushed and refused to let him draw her, claiming that it embarrassed her to have him watching her so intently
     items:
-      - choice: sulky
-        correct: false
-      - choice: earnest
+      - choice: gloomy
         correct: false
       - choice: bashful
         correct: true
-      - choice: gloomy
+      - choice: churlish
+        correct: false
+      - choice: benighted
         correct: false
   - type: single-choice
     question: the forest was also frequented by outlaws, and was a place of great danger to the _______ traveller
     items:
-      - choice: pugnacious
-        correct: false
-      - choice: gloomy
-        correct: false
-      - choice: bashful
-        correct: false
       - choice: benighted
         correct: true
+      - choice: deluded
+        correct: false
+      - choice: earnest
+        correct: false
+      - choice: pugnacious
+        correct: false
   - type: single-choice
     question: a storm developed and we were forced to wait _______ near the summit
     items:
-      - choice: benighted
-        correct: true
-      - choice: bashful
-        correct: false
-      - choice: churlish
-        correct: false
       - choice: pugnacious
         correct: false
+      - choice: bashful
+        correct: false
+      - choice: onerous
+        correct: false
+      - choice: benighted
+        correct: true
   - type: single-choice
     question: the poor _______ souls who do not know the joys of reading
     items:
-      - choice: sulky
-        correct: false
-      - choice: perilous
+      - choice: onerous
         correct: false
       - choice: benighted
         correct: true
-      - choice: onerous
+      - choice: earnest
+        correct: false
+      - choice: deluded
         correct: false
   - type: single-choice
     question: famine hit that _______ country once more
     items:
-      - choice: benighted
-        correct: true
+      - choice: gloomy
+        correct: false
       - choice: pugnacious
         correct: false
-      - choice: deluded
+      - choice: stern
         correct: false
-      - choice: churlish
-        correct: false
+      - choice: benighted
+        correct: true
   - type: single-choice
     question: kids today are rude, surly and _______
     items:
-      - choice: churlish
-        correct: true
-      - choice: nagging
-        correct: false
       - choice: sulky
         correct: false
       - choice: deluded
+        correct: false
+      - choice: churlish
+        correct: true
+      - choice: perilous
         correct: false
   - type: single-choice
     question: it seemed equally _______ to point out that all good things come to an end
     items:
+      - choice: gloomy
+        correct: false
+      - choice: pugnacious
+        correct: false
       - choice: sulky
-        correct: false
-      - choice: nagging
-        correct: false
-      - choice: benighted
         correct: false
       - choice: churlish
         correct: true
   - type: single-choice
     question: they invited me to dinner and I thought it would be _______ to refuse
     items:
-      - choice: deluded
-        correct: false
-      - choice: perilous
+      - choice: pugnacious
         correct: false
       - choice: churlish
         correct: true
-      - choice: stern
+      - choice: perilous
+        correct: false
+      - choice: sulky
         correct: false
   - type: single-choice
     question: poor _______ girl, she thinks he's going to marry her
     items:
-      - choice: onerous
-        correct: false
-      - choice: perilous
-        correct: false
       - choice: deluded
         correct: true
-      - choice: pugnacious
+      - choice: benighted
+        correct: false
+      - choice: nagging
+        correct: false
+      - choice: sulky
         correct: false
   - type: single-choice
     question: unscrupulous brokers who _______ their clients about the underlying value of the stocks they were touting
     items:
       - choice: deluded
         correct: true
-      - choice: nagging
+      - choice: stern
         correct: false
       - choice: churlish
         correct: false
-      - choice: sulky
+      - choice: onerous
         correct: false
   - type: single-choice
     question: I'll accept only an _______ apology from you
     items:
-      - choice: stern
+      - choice: sulky
         correct: false
-      - choice: deluded
+      - choice: benighted
         correct: false
       - choice: earnest
         correct: true
-      - choice: onerous
+      - choice: deluded
         correct: false
   - type: single-choice
     question: that was an _______ gesture of goodwill
     items:
-      - choice: bashful
+      - choice: gloomy
         correct: false
-      - choice: sulky
+      - choice: stern
         correct: false
-      - choice: nagging
+      - choice: benighted
         correct: false
       - choice: earnest
         correct: true
   - type: single-choice
     question: _______ people are very serious and sincere in what they say or do, because they think that their actions and beliefs are important
     items:
-      - choice: churlish
-        correct: false
-      - choice: pugnacious
-        correct: false
-      - choice: gloomy
-        correct: false
       - choice: earnest
-        correct: true
-  - type: single-choice
-    question: then he walked through a _______ corridor badly lit by oil lamps
-    items:
-      - choice: bashful
-        correct: false
-      - choice: earnest
-        correct: false
-      - choice: gloomy
         correct: true
       - choice: nagging
         correct: false
+      - choice: benighted
+        correct: false
+      - choice: gloomy
+        correct: false
+  - type: single-choice
+    question: then he walked through a _______ corridor badly lit by oil lamps
+    items:
+      - choice: stern
+        correct: false
+      - choice: benighted
+        correct: false
+      - choice: sulky
+        correct: false
+      - choice: gloomy
+        correct: true
   - type: single-choice
     question: hesitating she stepped into the _______ dark, dank hall
     items:
-      - choice: pugnacious
-        correct: false
-      - choice: bashful
-        correct: false
-      - choice: earnest
-        correct: false
       - choice: gloomy
         correct: true
+      - choice: stern
+        correct: false
+      - choice: onerous
+        correct: false
+      - choice: churlish
+        correct: false
   - type: single-choice
     question: officials say the outlook for next year is _______
     items:
-      - choice: churlish
+      - choice: sulky
         correct: false
       - choice: gloomy
         correct: true
-      - choice: deluded
+      - choice: churlish
         correct: false
-      - choice: pugnacious
+      - choice: deluded
         correct: false
   - type: single-choice
     question: I want to get away from my _______ parents
     items:
-      - choice: nagging
-        correct: true
       - choice: deluded
         correct: false
-      - choice: perilous
-        correct: false
+      - choice: nagging
+        correct: true
       - choice: onerous
+        correct: false
+      - choice: perilous
         correct: false
   - type: single-choice
     question: the best way to deal with a _______ customer is to agree to whatever they ask
     items:
-      - choice: bashful
-        correct: false
-      - choice: perilous
-        correct: false
-      - choice: benighted
+      - choice: pugnacious
         correct: false
       - choice: nagging
         correct: true
+      - choice: benighted
+        correct: false
+      - choice: onerous
+        correct: false
   - type: single-choice
     question: He complained of a _______ pain between his shoulder blades
     items:
-      - choice: perilous
+      - choice: gloomy
+        correct: false
+      - choice: deluded
         correct: false
       - choice: nagging
         correct: true
-      - choice: earnest
-        correct: false
-      - choice: pugnacious
+      - choice: onerous
         correct: false
   - type: single-choice
     question: no wonder we cannot find staff for such _______ tasks, the stress day in day out must be disastrous on their health
     items:
-      - choice: churlish
-        correct: false
-      - choice: bashful
-        correct: false
-      - choice: sulky
+      - choice: gloomy
         correct: false
       - choice: onerous
         correct: true
+      - choice: churlish
+        correct: false
+      - choice: deluded
+        correct: false
   - type: single-choice
     question: which means I'll have to resume the _______ task of sending regular e-mail
     items:
-      - choice: onerous
-        correct: true
-      - choice: deluded
-        correct: false
       - choice: gloomy
         correct: false
-      - choice: earnest
+      - choice: onerous
+        correct: true
+      - choice: stern
+        correct: false
+      - choice: pugnacious
         correct: false
   - type: single-choice
     question: the situation was extremely _______ and the patrol was in danger of being wiped out by the heavy crossfire
     items:
       - choice: perilous
         correct: true
-      - choice: gloomy
+      - choice: earnest
         correct: false
-      - choice: churlish
+      - choice: deluded
         correct: false
-      - choice: sulky
+      - choice: nagging
         correct: false
   - type: single-choice
     question: for mothers and children, the situation is even more _______
     items:
-      - choice: perilous
-        correct: true
       - choice: pugnacious
+        correct: false
+      - choice: stern
         correct: false
       - choice: deluded
         correct: false
-      - choice: onerous
-        correct: false
+      - choice: perilous
+        correct: true
   - type: single-choice
     question: the adult males are extremely _______ and fight fiercely with one another
     items:
+      - choice: benighted
+        correct: false
       - choice: pugnacious
         correct: true
-      - choice: earnest
+      - choice: deluded
         correct: false
-      - choice: bashful
-        correct: false
-      - choice: churlish
+      - choice: gloomy
         correct: false
   - type: single-choice
     question: what a way to go for the most _______, aggressive Liberal minister I've seen in action
     items:
       - choice: earnest
         correct: false
+      - choice: benighted
+        correct: false
+      - choice: perilous
+        correct: false
       - choice: pugnacious
         correct: true
-      - choice: onerous
-        correct: false
-      - choice: stern
-        correct: false
   - type: single-choice
     question: one of them was Andrew Jackson, a _______ populist and something of a hotheaded role model for Trump
     items:
-      - choice: bashful
+      - choice: nagging
         correct: false
       - choice: pugnacious
         correct: true
-      - choice: gloomy
+      - choice: churlish
         correct: false
-      - choice: earnest
+      - choice: perilous
         correct: false
   - type: single-choice
     question: the letter echoes the sentiment of another university president, who sent a _______ warning to students who don't follow safety guidelines
     items:
-      - choice: churlish
+      - choice: stern
+        correct: true
+      - choice: earnest
+        correct: false
+      - choice: bashful
+        correct: false
+      - choice: onerous
+        correct: false
+  - type: single-choice
+    question: he was my mother's favorite brother and our least favorite Uncle; he was too _______, too serious, too strict
+    items:
+      - choice: benighted
         correct: false
       - choice: stern
         correct: true
       - choice: deluded
         correct: false
-      - choice: bashful
-        correct: false
-  - type: single-choice
-    question: he was my mother's favorite brother and our least favorite Uncle; he was too _______, too serious, too strict
-    items:
-      - choice: churlish
-        correct: false
-      - choice: onerous
-        correct: false
-      - choice: stern
-        correct: true
       - choice: perilous
         correct: false
   - type: single-choice
     question: all are _______ judges and they expect others to be as serious about everything as they are
     items:
-      - choice: onerous
-        correct: false
       - choice: stern
         correct: true
-      - choice: pugnacious
+      - choice: earnest
         correct: false
-      - choice: churlish
+      - choice: deluded
+        correct: false
+      - choice: onerous
         correct: false
   - type: single-choice
     question: her father was _______ and hard to please
     items:
-      - choice: deluded
-        correct: false
-      - choice: earnest
+      - choice: gloomy
         correct: false
       - choice: stern
         correct: true
-      - choice: onerous
+      - choice: earnest
+        correct: false
+      - choice: sulky
         correct: false
   - type: single-choice
     question: teens are _______, and moody and think way to highly of themselves for the most part
     items:
+      - choice: churlish
+        correct: false
       - choice: sulky
         correct: true
-      - choice: gloomy
+      - choice: perilous
         correct: false
       - choice: earnest
-        correct: false
-      - choice: pugnacious
         correct: false
   - type: single-choice
     question: I was quite _______, so I didn't take part in much
     items:
-      - choice: deluded
+      - choice: bashful
         correct: false
-      - choice: pugnacious
+      - choice: benighted
+        correct: false
+      - choice: gloomy
         correct: false
       - choice: sulky
         correct: true
-      - choice: churlish
-        correct: false

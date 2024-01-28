@@ -4,110 +4,110 @@ questions:
   - type: single-choice
     question: befit
     items:
-      - choice: to deprive (someone) of strength or vitality
-        correct: false
-      - choice: to take something or someone somewhere, especially by force
-        correct: false
-      - choice: surround (a place) with armed forces in order to capture it or force its surrender
+      - choice: prevent (someone) from accomplishing something
         correct: false
       - choice: to be suitable to or proper for (someone or something)
         correct: true
+      - choice: to twist together
+        correct: false
+      - choice: to get the better of by superior cleverness
+        correct: false
   - type: single-choice
     question: besiege
     items:
-      - choice: to be suitable to or proper for (someone or something)
+      - choice: to deprive (someone) of strength or vitality
         correct: false
       - choice: surround (a place) with armed forces in order to capture it or force its surrender
         correct: true
-      - choice: to get the better of by superior cleverness
+      - choice: prevent (someone) from accomplishing something
         correct: false
-      - choice: regard or represent as being of little worth
+      - choice: feel or show sorrow for the death of (someone)
         correct: false
   - type: single-choice
     question: debase
     items:
-      - choice: feel or show sorrow for the death of (someone)
+      - choice: regard or represent as being of little worth
         correct: false
-      - choice: to pull or drag (something) with effort
-        correct: false
-      - choice: quickly seize (something) in a rude or eager way
+      - choice: to twist together
         correct: false
       - choice: to lower in status, esteem, quality, or character
         correct: true
+      - choice: prevent (someone) from accomplishing something
+        correct: false
   - type: single-choice
     question: disparage
     items:
+      - choice: feel or show sorrow for the death of (someone)
+        correct: false
       - choice: regard or represent as being of little worth
         correct: true
-      - choice: to pull or drag (something) with effort
+      - choice: to get the better of by superior cleverness
         correct: false
-      - choice: prevent (someone) from accomplishing something
-        correct: false
-      - choice: surround (a place) with armed forces in order to capture it or force its surrender
+      - choice: to twist together
         correct: false
   - type: single-choice
     question: enervate
     items:
-      - choice: to deprive (someone) of strength or vitality
-        correct: true
-      - choice: prevent (someone) from accomplishing something
-        correct: false
-      - choice: to pull (something) hard and suddenly
+      - choice: surround (a place) with armed forces in order to capture it or force its surrender
         correct: false
       - choice: to be suitable to or proper for (someone or something)
+        correct: false
+      - choice: to deprive (someone) of strength or vitality
+        correct: true
+      - choice: to pull or drag (something) with effort
         correct: false
   - type: single-choice
     question: haul
     items:
-      - choice: to pull or drag (something) with effort
-        correct: true
       - choice: regard or represent as being of little worth
-        correct: false
-      - choice: feel or show sorrow for the death of (someone)
         correct: false
       - choice: surround (a place) with armed forces in order to capture it or force its surrender
         correct: false
+      - choice: quickly seize (something) in a rude or eager way
+        correct: false
+      - choice: to pull or drag (something) with effort
+        correct: true
   - type: single-choice
     question: haul
     items:
-      - choice: prevent (someone) from accomplishing something
+      - choice: feel or show sorrow for the death of (someone)
         correct: false
       - choice: to take something or someone somewhere, especially by force
         correct: true
-      - choice: to be suitable to or proper for (someone or something)
+      - choice: to twist together
         correct: false
       - choice: to deprive (someone) of strength or vitality
         correct: false
   - type: single-choice
     question: mourn
     items:
+      - choice: to lower in status, esteem, quality, or character
+        correct: false
+      - choice: to get the better of by superior cleverness
+        correct: false
       - choice: feel or show sorrow for the death of (someone)
         correct: true
-      - choice: to be suitable to or proper for (someone or something)
-        correct: false
-      - choice: prevent (someone) from accomplishing something
-        correct: false
-      - choice: quickly seize (something) in a rude or eager way
+      - choice: to twist together
         correct: false
   - type: single-choice
     question: outwit
     items:
-      - choice: surround (a place) with armed forces in order to capture it or force its surrender
-        correct: false
-      - choice: to get the better of by superior cleverness
-        correct: true
-      - choice: prevent (someone) from accomplishing something
+      - choice: to lower in status, esteem, quality, or character
         correct: false
       - choice: quickly seize (something) in a rude or eager way
         correct: false
+      - choice: to be suitable to or proper for (someone or something)
+        correct: false
+      - choice: to get the better of by superior cleverness
+        correct: true
   - type: single-choice
     question: snatch
     items:
-      - choice: to pull or drag (something) with effort
-        correct: false
-      - choice: to be suitable to or proper for (someone or something)
+      - choice: prevent (someone) from accomplishing something
         correct: false
       - choice: to take something or someone somewhere, especially by force
+        correct: false
+      - choice: regard or represent as being of little worth
         correct: false
       - choice: quickly seize (something) in a rude or eager way
         correct: true
@@ -116,104 +116,115 @@ questions:
     items:
       - choice: quickly seize (something) in a rude or eager way
         correct: false
+      - choice: to be suitable to or proper for (someone or something)
+        correct: false
       - choice: prevent (someone) from accomplishing something
         correct: true
-      - choice: to pull (something) hard and suddenly
-        correct: false
-      - choice: surround (a place) with armed forces in order to capture it or force its surrender
+      - choice: regard or represent as being of little worth
         correct: false
   - type: single-choice
     question: tug
     items:
-      - choice: to deprive (someone) of strength or vitality
+      - choice: to pull (something) hard and suddenly
+        correct: true
+      - choice: regard or represent as being of little worth
         correct: false
-      - choice: to get the better of by superior cleverness
+      - choice: feel or show sorrow for the death of (someone)
         correct: false
       - choice: quickly seize (something) in a rude or eager way
         correct: false
-      - choice: to pull (something) hard and suddenly
-        correct: true
   - type: single-choice
     question: twine
     items:
-      - choice: to take something or someone somewhere, especially by force
-        correct: false
       - choice: quickly seize (something) in a rude or eager way
         correct: false
-      - choice: to lower in status, esteem, quality, or character
+      - choice: regard or represent as being of little worth
+        correct: false
+      - choice: feel or show sorrow for the death of (someone)
         correct: false
       - choice: to twist together
         correct: true
   - type: single-choice
     question: the army was buried in the cathedral, as _______ christian soldiers
     items:
-      - choice: twine
+      - choice: thwart
         correct: false
       - choice: befit
         correct: true
-      - choice: debase
+      - choice: outwit
         correct: false
-      - choice: disparage
+      - choice: debase
         correct: false
   - type: single-choice
     question: you must wear nice clothes that _______ the occasion
     items:
-      - choice: befit
-        correct: true
-      - choice: debase
+      - choice: besiege
         correct: false
       - choice: enervate
         correct: false
-      - choice: haul
+      - choice: befit
+        correct: true
+      - choice: thwart
         correct: false
   - type: single-choice
     question: crowds _______ the city's night clubs after sunset
     items:
-      - choice: thwart
-        correct: false
-      - choice: outwit
-        correct: false
-      - choice: debase
-        correct: false
       - choice: besiege
         correct: true
-  - type: single-choice
-    question: the army plans to _______ the walled city at midnight
-    items:
-      - choice: besiege
-        correct: true
-      - choice: twine
+      - choice: disparage
         correct: false
       - choice: haul
         correct: false
-      - choice: debase
+      - choice: befit
+        correct: false
+  - type: single-choice
+    question: the army plans to _______ the walled city at midnight
+    items:
+      - choice: twine
+        correct: false
+      - choice: besiege
+        correct: true
+      - choice: outwit
+        correct: false
+      - choice: snatch
         correct: false
   - type: single-choice
     question: the guerrillas continued to _______ other major cities to the north
     items:
-      - choice: besiege
-        correct: true
-      - choice: befit
+      - choice: debase
         correct: false
       - choice: outwit
         correct: false
-      - choice: debase
+      - choice: besiege
+        correct: true
+      - choice: thwart
         correct: false
   - type: single-choice
     question: Henry brought up forces to _______ the town, while Henry the Younger was joined by troops from his brother Geoffrey and the new king Philip of France
     items:
-      - choice: twine
-        correct: false
-      - choice: tug
-        correct: false
-      - choice: disparage
+      - choice: haul
         correct: false
       - choice: besiege
         correct: true
+      - choice: tug
+        correct: false
+      - choice: outwit
+        correct: false
   - type: single-choice
     question: he wouldn't _______ himself by doing manual labor
     items:
-      - choice: besiege
+      - choice: enervate
+        correct: false
+      - choice: outwit
+        correct: false
+      - choice: twine
+        correct: false
+      - choice: debase
+        correct: true
+  - type: single-choice
+    question: the governor should try not to _______ himself by lying to the public
+    items:
+      - choice: haul
         correct: false
       - choice: debase
         correct: true
@@ -222,46 +233,35 @@ questions:
       - choice: snatch
         correct: false
   - type: single-choice
-    question: the governor should try not to _______ himself by lying to the public
-    items:
-      - choice: haul
-        correct: false
-      - choice: tug
-        correct: false
-      - choice: thwart
-        correct: false
-      - choice: debase
-        correct: true
-  - type: single-choice
     question: we _______ language by using it inappropriately until it loses its meaning
     items:
-      - choice: twine
-        correct: false
-      - choice: befit
-        correct: false
-      - choice: haul
-        correct: false
       - choice: debase
         correct: true
-  - type: single-choice
-    question: I would say persist and never minimize or _______ yourself or your abilities
-    items:
-      - choice: disparage
-        correct: true
-      - choice: haul
+      - choice: besiege
         correct: false
       - choice: outwit
         correct: false
+      - choice: snatch
+        correct: false
+  - type: single-choice
+    question: I would say persist and never minimize or _______ yourself or your abilities
+    items:
       - choice: twine
+        correct: false
+      - choice: disparage
+        correct: true
+      - choice: outwit
+        correct: false
+      - choice: debase
         correct: false
   - type: single-choice
     question: voters don't like political advertisements in which opponents _______ one another
     items:
       - choice: disparage
         correct: true
-      - choice: outwit
+      - choice: tug
         correct: false
-      - choice: thwart
+      - choice: debase
         correct: false
       - choice: haul
         correct: false
@@ -270,185 +270,185 @@ questions:
     items:
       - choice: enervate
         correct: true
-      - choice: twine
+      - choice: haul
         correct: false
-      - choice: thwart
+      - choice: disparage
         correct: false
-      - choice: tug
+      - choice: befit
         correct: false
   - type: single-choice
     question: shun all that may _______ or diminish your youthful energies
     items:
-      - choice: enervate
-        correct: true
       - choice: twine
         correct: false
-      - choice: mourn
+      - choice: besiege
         correct: false
-      - choice: disparage
+      - choice: enervate
+        correct: true
+      - choice: thwart
         correct: false
   - type: single-choice
     question: a freight train can _______ thousands of tons of goods
     items:
-      - choice: snatch
-        correct: false
-      - choice: besiege
-        correct: false
       - choice: haul
         correct: true
+      - choice: snatch
+        correct: false
       - choice: tug
+        correct: false
+      - choice: enervate
         correct: false
   - type: single-choice
     question: it took three men to _______ the roller across the field
     items:
       - choice: outwit
         correct: false
+      - choice: enervate
+        correct: false
       - choice: haul
         correct: true
-      - choice: thwart
-        correct: false
-      - choice: enervate
+      - choice: tug
         correct: false
   - type: single-choice
     question: a crane had to be used to _______ the car out of the stream
     items:
-      - choice: enervate
-        correct: false
-      - choice: disparage
-        correct: false
       - choice: haul
         correct: true
-      - choice: debase
+      - choice: enervate
+        correct: false
+      - choice: befit
+        correct: false
+      - choice: snatch
         correct: false
   - type: single-choice
     question: dressed in widows weeds to _______ her beloved husband, her black clothing merely enhanced the strict lines of her face
     items:
-      - choice: snatch
-        correct: false
-      - choice: outwit
+      - choice: enervate
         correct: false
       - choice: mourn
         correct: true
-      - choice: befit
+      - choice: debase
+        correct: false
+      - choice: tug
         correct: false
   - type: single-choice
     question: we as a family _______ her loss daily
     items:
-      - choice: debase
-        correct: false
-      - choice: haul
-        correct: false
       - choice: mourn
         correct: true
-      - choice: befit
+      - choice: disparage
+        correct: false
+      - choice: enervate
+        correct: false
+      - choice: besiege
         correct: false
   - type: single-choice
     question: any people had come to _______ the quiet woman who had taught literature at the college
     items:
-      - choice: enervate
-        correct: false
-      - choice: befit
+      - choice: outwit
         correct: false
       - choice: mourn
         correct: true
       - choice: twine
+        correct: false
+      - choice: besiege
         correct: false
   - type: single-choice
     question: the fox managed to _______ the hunter by hiding in a tree
     items:
-      - choice: disparage
+      - choice: snatch
         correct: false
-      - choice: enervate
+      - choice: tug
         correct: false
       - choice: outwit
         correct: true
-      - choice: debase
+      - choice: twine
         correct: false
   - type: single-choice
     question: it is impossible to negotiate if one side feels that the other side is trying to _______ them
     items:
-      - choice: twine
-        correct: false
-      - choice: snatch
-        correct: false
       - choice: outwit
         correct: true
+      - choice: besiege
+        correct: false
       - choice: mourn
+        correct: false
+      - choice: disparage
         correct: false
   - type: single-choice
     question: when the moon hovers above spring tides each February, the king-tide waves will reach over the rocks, enter houses, _______ belongings and garbage and children, and poison freshwater wells, called lenses, with salt water
     items:
-      - choice: disparage
+      - choice: snatch
+        correct: true
+      - choice: outwit
         correct: false
       - choice: befit
         correct: false
-      - choice: snatch
-        correct: true
-      - choice: thwart
+      - choice: mourn
         correct: false
   - type: single-choice
     question: it seems obvious that a greater police presence in that neighborhood might _______ some criminals and inadvertently save lives
     items:
-      - choice: tug
+      - choice: enervate
         correct: false
-      - choice: debase
-        correct: false
-      - choice: befit
+      - choice: snatch
         correct: false
       - choice: thwart
         correct: true
+      - choice: haul
+        correct: false
   - type: single-choice
     question: she did all she could to _______ his plans
     items:
-      - choice: snatch
+      - choice: befit
         correct: false
-      - choice: outwit
+      - choice: debase
         correct: false
       - choice: thwart
         correct: true
-      - choice: besiege
+      - choice: tug
         correct: false
   - type: single-choice
     question: will Eliza find the courage to _______ these evil people and restore balance to the African wild?
     items:
-      - choice: outwit
-        correct: false
       - choice: thwart
         correct: true
-      - choice: debase
+      - choice: twine
+        correct: false
+      - choice: enervate
         correct: false
       - choice: tug
         correct: false
   - type: single-choice
     question: the doctor will firmly grasp a section of hair near the scalp and _______ all the way down, repeating this around the head
     items:
+      - choice: snatch
+        correct: false
+      - choice: haul
+        correct: false
       - choice: tug
         correct: true
       - choice: disparage
         correct: false
-      - choice: enervate
-        correct: false
-      - choice: debase
-        correct: false
   - type: single-choice
     question: these strands of molecules _______ around each other to form cable-like structures
     items:
-      - choice: debase
+      - choice: haul
         correct: false
-      - choice: outwit
+      - choice: besiege
         correct: false
       - choice: twine
         correct: true
-      - choice: mourn
+      - choice: disparage
         correct: false
   - type: single-choice
     question: you need to _______ the different coloured threads together
     items:
       - choice: haul
         correct: false
+      - choice: enervate
+        correct: false
+      - choice: outwit
+        correct: false
       - choice: twine
         correct: true
-      - choice: snatch
-        correct: false
-      - choice: tug
-        correct: false
