@@ -1,0 +1,487 @@
+title: Quiz List 5
+randomize: true
+questions:
+  - type: single-choice
+    question: aghast
+    items:
+      - choice: not involved with; distant either physically or emotionally
+        correct: false
+      - choice: tending to overwhelm; often trying to control the behavior of other people in an annoying or unwanted way
+        correct: false
+      - choice: negligent in the performance of work or duty
+        correct: false
+      - choice: struck with terror, amazement, or horror
+        correct: true
+  - type: single-choice
+    question: aloof
+    items:
+      - choice: having many complexly interrelating parts or elements
+        correct: false
+      - choice: (especially of a time or place) extremely happy, peaceful, or picturesque
+        correct: false
+      - choice: not involved with; distant either physically or emotionally
+        correct: true
+      - choice: unpleasantly bright or colorful
+        correct: false
+  - type: single-choice
+    question: cunning
+    items:
+      - choice: (of a person, speech, or style of writing) using very few words
+        correct: false
+      - choice: tending to overwhelm; often trying to control the behavior of other people in an annoying or unwanted way
+        correct: false
+      - choice: (of fruit or grain) developed to the point of readiness for harvesting and eating
+        correct: false
+      - choice: getting what is wanted in a clever and often deceptive way
+        correct: true
+  - type: single-choice
+    question: garish
+    items:
+      - choice: getting what is wanted in a clever and often deceptive way
+        correct: false
+      - choice: (especially of a time or place) extremely happy, peaceful, or picturesque
+        correct: false
+      - choice: (of fruit or grain) developed to the point of readiness for harvesting and eating
+        correct: false
+      - choice: unpleasantly bright or colorful
+        correct: true
+  - type: single-choice
+    question: idyllic
+    items:
+      - choice: not stretched or held in a tight position; loose
+        correct: false
+      - choice: (especially of a time or place) extremely happy, peaceful, or picturesque
+        correct: true
+      - choice: (of fruit or grain) developed to the point of readiness for harvesting and eating
+        correct: false
+      - choice: tending to overwhelm; often trying to control the behavior of other people in an annoying or unwanted way
+        correct: false
+  - type: single-choice
+    question: intricate
+    items:
+      - choice: showing little activity; not busy or happening in a positive way
+        correct: false
+      - choice: (of fruit or grain) developed to the point of readiness for harvesting and eating
+        correct: false
+      - choice: negligent in the performance of work or duty
+        correct: false
+      - choice: having many complexly interrelating parts or elements
+        correct: true
+  - type: single-choice
+    question: laconic
+    items:
+      - choice: (of a person, speech, or style of writing) using very few words
+        correct: true
+      - choice: (of fruit or grain) developed to the point of readiness for harvesting and eating
+        correct: false
+      - choice: not involved with; distant either physically or emotionally
+        correct: false
+      - choice: tending to overwhelm; often trying to control the behavior of other people in an annoying or unwanted way
+        correct: false
+  - type: single-choice
+    question: overbearing
+    items:
+      - choice: negligent in the performance of work or duty
+        correct: false
+      - choice: showing little activity; not busy or happening in a positive way
+        correct: false
+      - choice: tending to overwhelm; often trying to control the behavior of other people in an annoying or unwanted way
+        correct: true
+      - choice: not involved with; distant either physically or emotionally
+        correct: false
+  - type: single-choice
+    question: remiss
+    items:
+      - choice: (of fruit or grain) developed to the point of readiness for harvesting and eating
+        correct: false
+      - choice: getting what is wanted in a clever and often deceptive way
+        correct: false
+      - choice: showing little activity; not busy or happening in a positive way
+        correct: false
+      - choice: negligent in the performance of work or duty
+        correct: true
+  - type: single-choice
+    question: ripe
+    items:
+      - choice: (of fruit or grain) developed to the point of readiness for harvesting and eating
+        correct: true
+      - choice: tending to overwhelm; often trying to control the behavior of other people in an annoying or unwanted way
+        correct: false
+      - choice: (especially of a time or place) extremely happy, peaceful, or picturesque
+        correct: false
+      - choice: not stretched or held in a tight position; loose
+        correct: false
+  - type: single-choice
+    question: slack
+    items:
+      - choice: tending to overwhelm; often trying to control the behavior of other people in an annoying or unwanted way
+        correct: false
+      - choice: not stretched or held in a tight position; loose
+        correct: true
+      - choice: negligent in the performance of work or duty
+        correct: false
+      - choice: (especially of a time or place) extremely happy, peaceful, or picturesque
+        correct: false
+  - type: single-choice
+    question: slack
+    items:
+      - choice: (of fruit or grain) developed to the point of readiness for harvesting and eating
+        correct: false
+      - choice: (of a person, speech, or style of writing) using very few words
+        correct: false
+      - choice: getting what is wanted in a clever and often deceptive way
+        correct: false
+      - choice: showing little activity; not busy or happening in a positive way
+        correct: true
+  - type: single-choice
+    question: uncanny
+    items:
+      - choice: (of fruit or grain) developed to the point of readiness for harvesting and eating
+        correct: false
+      - choice: having many complexly interrelating parts or elements
+        correct: false
+      - choice: strange or mysterious, especially in an unsettling way
+        correct: true
+      - choice: not stretched or held in a tight position; loose
+        correct: false
+  - type: single-choice
+    question: the public would be _______ to know just how soon after a sentence some criminals are now released
+    items:
+      - choice: slack
+        correct: false
+      - choice: idyllic
+        correct: false
+      - choice: aghast
+        correct: true
+      - choice: ripe
+        correct: false
+  - type: single-choice
+    question: some will be _______ at the idea of turning history into entertainment
+    items:
+      - choice: remiss
+        correct: false
+      - choice: cunning
+        correct: false
+      - choice: aghast
+        correct: true
+      - choice: garish
+        correct: false
+  - type: single-choice
+    question: previous incoming presidents have chosen to remain _______ in similar circumstances
+    items:
+      - choice: aloof
+        correct: true
+      - choice: overbearing
+        correct: false
+      - choice: slack
+        correct: false
+      - choice: idyllic
+        correct: false
+  - type: single-choice
+    question: he just protects himself by being _______ and distant
+    items:
+      - choice: aloof
+        correct: true
+      - choice: cunning
+        correct: false
+      - choice: slack
+        correct: false
+      - choice: uncanny
+        correct: false
+  - type: single-choice
+    question: I consider myself warm and friendly, but I act cool and _______ with strange people
+    items:
+      - choice: cunning
+        correct: false
+      - choice: idyllic
+        correct: false
+      - choice: aloof
+        correct: true
+      - choice: intricate
+        correct: false
+  - type: single-choice
+    question: he was as _______ as a fox
+    items:
+      - choice: uncanny
+        correct: false
+      - choice: intricate
+        correct: false
+      - choice: cunning
+        correct: true
+      - choice: ripe
+        correct: false
+  - type: single-choice
+    question: she was a _______ liar
+    items:
+      - choice: aloof
+        correct: false
+      - choice: remiss
+        correct: false
+      - choice: idyllic
+        correct: false
+      - choice: cunning
+        correct: true
+  - type: single-choice
+    question: the Quakers started like a team with championship ambition, as purposeful and bright as their _______ yellow shirts
+    items:
+      - choice: ripe
+        correct: false
+      - choice: garish
+        correct: true
+      - choice: aloof
+        correct: false
+      - choice: aghast
+        correct: false
+  - type: single-choice
+    question: the wedding guest's thick makeup was _______ and unnecessary
+    items:
+      - choice: idyllic
+        correct: false
+      - choice: intricate
+        correct: false
+      - choice: aghast
+        correct: false
+      - choice: garish
+        correct: true
+  - type: single-choice
+    question: the old people were wearing _______ colours, which I could never have imagined they would dare to put on
+    items:
+      - choice: garish
+        correct: true
+      - choice: aghast
+        correct: false
+      - choice: idyllic
+        correct: false
+      - choice: ripe
+        correct: false
+  - type: single-choice
+    question: some say a horrible monster cast its ominous shadow over the peaceful and _______ valley
+    items:
+      - choice: cunning
+        correct: false
+      - choice: idyllic
+        correct: true
+      - choice: uncanny
+        correct: false
+      - choice: aloof
+        correct: false
+  - type: single-choice
+    question: even the most amateur of photographers can snap perfect shots in this _______ place
+    items:
+      - choice: aloof
+        correct: false
+      - choice: idyllic
+        correct: true
+      - choice: slack
+        correct: false
+      - choice: uncanny
+        correct: false
+  - type: single-choice
+    question: it is an _______ machine that requires some training to use it properly
+    items:
+      - choice: cunning
+        correct: false
+      - choice: remiss
+        correct: false
+      - choice: uncanny
+        correct: false
+      - choice: intricate
+        correct: true
+  - type: single-choice
+    question: however, other random processes can be quite _______; for example, the fluctuating prices of stocks are difficult to explain because there are so many variables and combinations of variables that are influencing the prices
+    items:
+      - choice: intricate
+        correct: true
+      - choice: slack
+        correct: false
+      - choice: idyllic
+        correct: false
+      - choice: uncanny
+        correct: false
+  - type: single-choice
+    question: filigree is an ancient technique that creates an _______, lace-like pattern through the combination of wire swirls and shapes
+    items:
+      - choice: uncanny
+        correct: false
+      - choice: cunning
+        correct: false
+      - choice: idyllic
+        correct: false
+      - choice: intricate
+        correct: true
+  - type: single-choice
+    question: his _______ reply suggested a lack of interest in the topic
+    items:
+      - choice: cunning
+        correct: false
+      - choice: remiss
+        correct: false
+      - choice: aloof
+        correct: false
+      - choice: laconic
+        correct: true
+  - type: single-choice
+    question: the language in the book is terse and concise, almost _______, and very much to the point
+    items:
+      - choice: aghast
+        correct: false
+      - choice: idyllic
+        correct: false
+      - choice: intricate
+        correct: false
+      - choice: laconic
+        correct: true
+  - type: single-choice
+    question: He had to deal with his _______ mother
+    items:
+      - choice: overbearing
+        correct: true
+      - choice: slack
+        correct: false
+      - choice: cunning
+        correct: false
+      - choice: garish
+        correct: false
+  - type: single-choice
+    question: Her husband's _______ manner made her miserable
+    items:
+      - choice: cunning
+        correct: false
+      - choice: slack
+        correct: false
+      - choice: overbearing
+        correct: true
+      - choice: remiss
+        correct: false
+  - type: single-choice
+    question: college athletes remain subject arbitrary, intrusive, _______, discriminatory team rules
+    items:
+      - choice: aghast
+        correct: false
+      - choice: overbearing
+        correct: true
+      - choice: laconic
+        correct: false
+      - choice: garish
+        correct: false
+  - type: single-choice
+    question: it would be very _______ of me not to pass on that information
+    items:
+      - choice: cunning
+        correct: false
+      - choice: remiss
+        correct: true
+      - choice: aghast
+        correct: false
+      - choice: ripe
+        correct: false
+  - type: single-choice
+    question: it would be _______ of me if I did not share with you the vital role God has played in my recovery
+    items:
+      - choice: garish
+        correct: false
+      - choice: ripe
+        correct: false
+      - choice: uncanny
+        correct: false
+      - choice: remiss
+        correct: true
+  - type: single-choice
+    question: but if we do not address these complexities in the public arena, and in ways that are spatially theoretically grounded, we will be _______ in carrying out our scholarly and civic responsibilities
+    items:
+      - choice: aloof
+        correct: false
+      - choice: remiss
+        correct: true
+      - choice: overbearing
+        correct: false
+      - choice: slack
+        correct: false
+  - type: single-choice
+    question: I proceeded to pick the _______ fruits and vegetables
+    items:
+      - choice: idyllic
+        correct: false
+      - choice: overbearing
+        correct: false
+      - choice: ripe
+        correct: true
+      - choice: aghast
+        correct: false
+  - type: single-choice
+    question: He can tell by looking if a fruit is _______ or overly grown
+    items:
+      - choice: aghast
+        correct: false
+      - choice: ripe
+        correct: true
+      - choice: intricate
+        correct: false
+      - choice: cunning
+        correct: false
+  - type: single-choice
+    question: these tent ropes are too _______; they need tightening
+    items:
+      - choice: overbearing
+        correct: false
+      - choice: idyllic
+        correct: false
+      - choice: slack
+        correct: true
+      - choice: cunning
+        correct: false
+  - type: single-choice
+    question: Lynx saw to his right the rope go _______, and saw the same on his left, and felt the bridge leave from under his feet
+    items:
+      - choice: idyllic
+        correct: false
+      - choice: slack
+        correct: true
+      - choice: ripe
+        correct: false
+      - choice: overbearing
+        correct: false
+  - type: single-choice
+    question: business is always _______ at this time of year
+    items:
+      - choice: intricate
+        correct: false
+      - choice: slack
+        correct: true
+      - choice: idyllic
+        correct: false
+      - choice: aghast
+        correct: false
+  - type: single-choice
+    question: he has an _______ resemblance to the famous older horror writer
+    items:
+      - choice: idyllic
+        correct: false
+      - choice: uncanny
+        correct: true
+      - choice: slack
+        correct: false
+      - choice: aghast
+        correct: false
+  - type: single-choice
+    question: Paul had this _______ ability of making me want to hit him and laugh at the same time
+    items:
+      - choice: laconic
+        correct: false
+      - choice: ripe
+        correct: false
+      - choice: uncanny
+        correct: true
+      - choice: remiss
+        correct: false
+  - type: single-choice
+    question: she had an _______ feeling that she was being watched
+    items:
+      - choice: remiss
+        correct: false
+      - choice: idyllic
+        correct: false
+      - choice: aloof
+        correct: false
+      - choice: uncanny
+        correct: true
